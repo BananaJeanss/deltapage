@@ -17,7 +17,8 @@ export default function textboxGenerator() {
   const [style, setStyle] = React.useState("Light World");
   const [imageSrc, setImageSrc] = React.useState("");
   const [isGenerating, setIsGenerating] = React.useState(false);
-  const [charsLeft, setCharsLeft] = React.useState(90);
+  const charLimit = 116;
+  const [charsLeft, setCharsLeft] = React.useState(charLimit);
 
   const handleGenerate = async () => {
     setIsGenerating(true);
@@ -64,21 +65,34 @@ export default function textboxGenerator() {
       <div className="w-full flex flex-col gap-4 items-center justify-center">
         <div>
           {imageSrc ? (
+            <div>
             <img src={imageSrc} alt="Generated Textbox" />
+            <p className="text-sm text-blue-400 cursor-pointer" onClick={() => {
+                const link = document.createElement('a');
+                link.href = imageSrc;
+                link.download = 'textbox.png';
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            }}>Download as PNG</p>
+            </div>
           ) : (
             <p>No image generated yet.</p>
           )}
         </div>
-        <div className="flex flex-col gap-2 w-1/4 h-50">
-          <p>Text</p>
-            <p className="text-sm text-gray-500">{charsLeft} characters left</p>
+        <div className="flex flex-col gap-2 w-full h-50 items-center">
+          <p className="flex items-center gap-2">Text<span className="text-sm text-gray-500">{charsLeft} characters left</span></p>
           <textarea
             value={text}
-            className="border border-gray-300 rounded p-2 h-full "
-            onChange={(e) => { setText(e.target.value); setCharsLeft(90 - e.target.value.length); }}
+            className="border border-gray-300 rounded p-2 h-full max-w-lg w-3/4"
+            maxLength={charLimit}
+            onChange={(e) => {
+              setText(e.target.value);
+              setCharsLeft(charLimit - e.target.value.length);
+            }}
           />
         </div>
-        <div className="flex flex-row gap-2 w-1/4">
+        <div className="flex flex-col items-center gap-2 w-1/4 justify-center sm:flex-row">
           <div>
             <p>Sprite</p>
             <select
@@ -104,6 +118,8 @@ export default function textboxGenerator() {
           <button
             onClick={handleGenerate}
             className="bg-gray-800 text-white p-2 rounded self-end cursor-pointer transition hover:bg-gray-600"
+            style={{ fontFamily: "Deltarune" }}
+            disabled={isGenerating}
           >
             Generate
           </button>

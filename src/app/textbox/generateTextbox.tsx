@@ -47,13 +47,20 @@ export async function generateTextbox(
   try {
     const spritePath = path.join(
       process.cwd(),
-      "static",
-      "textboxsprites",
+      "public",
+      "sprites",
       `${sprite}.png`
     );
     if (fs.existsSync(spritePath)) {
-      const sprite = await loadImage(spritePath);
-      ctx.drawImage(sprite, spriteX, spriteY, spriteSize, spriteSize);
+      const spriteImage = await loadImage(spritePath);
+      
+      // calc aspect ratio to prevent stretching for some sprites
+      // (calc is short for calculator)
+      const aspectRatio = spriteImage.width / spriteImage.height;
+      const drawWidth = spriteSize * aspectRatio;
+      const drawHeight = spriteSize;
+      
+      ctx.drawImage(spriteImage, spriteX, spriteY, drawWidth, drawHeight);
     } else {
       // Draw a placeholder if sprite doesn't exist
       drawPlaceholderSprite(ctx, sprite);
@@ -95,8 +102,39 @@ export async function generateTextbox(
     lines.push(currentLine);
   }
 
+  // break any lines that are still too long
+  const wrappedLines: string[] = [];
+  for (const line of lines) {
+    let remainingText = line;
+    
+    while (remainingText.length > 0) {
+      const lineMetrics = ctx.measureText(remainingText);
+      
+      if (lineMetrics.width <= maxWidth) {
+        wrappedLines.push(remainingText);
+        break;
+      }
+      
+      let fit = "";
+      for (let i = 1; i <= remainingText.length; i++) {
+        const test = remainingText.substring(0, i);
+        if (ctx.measureText(test).width > maxWidth) {
+          break;
+        }
+        fit = test;
+      }
+      
+      if (fit.length === 0) {
+        fit = remainingText.substring(0, 1);
+      }
+      
+      wrappedLines.push(fit);
+      remainingText = remainingText.substring(fit.length);
+    }
+  }
+
   // Draw each line of text
-  lines.forEach((line, index) => {
+  wrappedLines.forEach((line, index) => {
     if (index < 4) {
       // Limit to 4 lines to fit in textbox
       ctx.fillText(line, startX, startY + index * lineHeight);
