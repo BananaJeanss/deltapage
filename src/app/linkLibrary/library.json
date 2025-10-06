@@ -1,0 +1,10 @@
+{
+  "Links": [
+    {
+      "category": "Cat1",
+      "title": "Example 1",
+      "description": "This is an example description.",
+      "link": "/example1"
+    }
+  ]
+}
