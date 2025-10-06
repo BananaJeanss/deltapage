@@ -24,7 +24,9 @@ export default function RootLayout({
             <NavLinks />
           <div className="w-full">
             <Navbar />
-            {children}
+            <div className="flex flex-col items-center align-middle p-4">
+              {children}
+            </div>
           </div>
         </div>
       </body>
