@@ -1,16 +1,17 @@
 import type { Metadata } from "next";
 import { Open_Sans, Lexend } from "next/font/google";
 import Navbar, { NavLinks } from "@/components/navbar";
+import FooterComp from "@/components/footer";
 import "./globals.css";
 
 const openSans = Open_Sans({
-  variable: "--font-open-sans"
+  variable: "--font-open-sans",
 });
 
 const lexend = Lexend({
   subsets: ["latin"],
   variable: "--font-lexend",
-  weight: ["400", "600", "700"]
+  weight: ["400", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -26,13 +27,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${lexend.variable} antialiased`}>
-        <div className="flex flex-row w-full">
-            <NavLinks />
-          <div className="w-full">
+        <div className="flex flex-row w-full min-h-screen">
+          <NavLinks />
+          <div className="flex flex-col flex-1">
             <Navbar />
-            <div className="flex flex-col items-center align-middle p-4">
+            <main className="flex flex-col items-center align-middle p-4 flex-1">
               {children}
-            </div>
+            </main>
+            <FooterComp />
           </div>
         </div>
       </body>

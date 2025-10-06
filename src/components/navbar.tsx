@@ -67,10 +67,10 @@ export function TopBar() {
 export function NavLinks() {
   return (
     <div
-      className="h-full flex-col hidden w-1/4 border-r border-gray-200 transition"
+      className="h-screen flex-col hidden w-1/4 border-r border-gray-200 transition"
       id="sidebar"
     >
-      <div className="p-4">
+      <div className="p-4 h-full">
         {navLinks.map((link) => (
           <Link
             key={link.href}
