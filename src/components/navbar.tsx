@@ -10,6 +10,21 @@ const navLinks = [
     href: "/",
     children: [],
   },
+  {
+    title: "Textbox Generator",
+    href: "/textbox",
+    children: [],
+  },
+  {
+    title: "Radio",
+    href: "/radio",
+    children: [],
+  },
+  {
+    title: "Library of Links",
+    href: "/linkLibrary",
+    children: [],
+  }
 ];
 
 function openMenu() {
