@@ -1,10 +1,16 @@
 import type { Metadata } from "next";
-import { Open_Sans } from "next/font/google";
+import { Open_Sans, Lexend } from "next/font/google";
 import Navbar, { NavLinks } from "@/components/navbar";
 import "./globals.css";
 
 const openSans = Open_Sans({
   variable: "--font-open-sans"
+});
+
+const lexend = Lexend({
+  subsets: ["latin"],
+  variable: "--font-lexend",
+  weight: ["400", "600", "700"]
 });
 
 export const metadata: Metadata = {
@@ -19,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${openSans.variable} antialiased`}>
+      <body className={`${lexend.variable} antialiased`}>
         <div className="flex flex-row w-full">
             <NavLinks />
           <div className="w-full">

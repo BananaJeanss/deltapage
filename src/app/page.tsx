@@ -1,4 +1,14 @@
 import Image from "next/image";
+import RecommendedTile from "@/components/recommendedTile";
+
+const recommendedPages = [
+  {
+    title: "Textbox Generator",
+    description: "Customizable UT/DR textbox generator",
+    link: "/textbox",
+    image: "/textbox.png",
+  },
+];
 
 export default function Home() {
   return (
@@ -23,6 +33,21 @@ export default function Home() {
           <p className="text-lg text-center z-10">
             A collection of Deltarune (and Undertale) media and tools.
           </p>
+        </div>
+      </div>
+      <hr className="my-8 w-3/4" />
+      <div>
+        <h2 className="flex">Recommended Pages</h2>
+        <div className="flex flex-wrap flex-row gap-4 justify-center">
+          {recommendedPages.map((page) => (
+            <RecommendedTile
+              key={page.title}
+              image={page.image}
+              title={page.title}
+              description={page.description}
+              urllink={page.link}
+            />
+          ))}
         </div>
       </div>
     </>
