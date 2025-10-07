@@ -78,7 +78,7 @@ export default function ArtLightbox() {
         className="absolute top-3 right-4 text-white hover:text-red-400 focus:outline-none"
         onClick={close}
       >
-        <X size={24} />
+        <X size={24} className="cursor-pointer"/>
       </button>
       <img
         id="lightboxImage"

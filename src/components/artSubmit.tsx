@@ -23,7 +23,7 @@ export default function SubmitArtwork() {
   return (
     <div
       id="submitForm"
-      className="absolute bg-black/50 w-screen h-screen top-0 left-0 hidden items-center justify-center z-100"
+      className="fixed bg-black/50 w-screen h-screen top-0 left-0 hidden items-center justify-center z-100"
     >
       <div className="bg-gray-950 border border-[#c7e3f2] p-6 rounded-lg shadow-lg w-96 relative">
         <X
