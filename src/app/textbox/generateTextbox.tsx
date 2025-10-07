@@ -18,10 +18,7 @@ if (fs.existsSync(fontPath)) {
 type choices = "Kris" | "Susie" | "Ralsei" | "None";
 
 // copied over from bananajeanss/ralseibot
-export async function generateTextbox(
-  text: string,
-  sprite: choices
-) {
+export async function generateTextbox(text: string, sprite: choices) {
   // values
   const width = 640;
   const height = 155;
@@ -43,14 +40,15 @@ export async function generateTextbox(
   const spriteY = (height - spriteSize) / 2;
 
   // Load and draw character sprite
+  const spritePath = path.join(
+    process.cwd(),
+    "public",
+    "sprites",
+    `${sprite}.png`
+  );
+  // if this bullshit does not work im done with vercel
   try {
-    // fuck vercel
-    const baseUrl = process.env.VERCEL_URL
-      ? `https://${process.env.VERCEL_URL}`
-      : `http://localhost:3000`;
-    const spriteUrl = `${baseUrl}/sprites/${sprite}.png`;
-    const spriteImage = await loadImage(spriteUrl);
-
+    const spriteImage = await loadImage(spritePath);
     // calc aspect ratio to prevent stretching for some sprites
     // (calc is short for calculator)
     const aspectRatio = spriteImage.width / spriteImage.height;
@@ -140,6 +138,7 @@ export async function generateTextbox(
     ctx: CanvasRenderingContext2D,
     character: string
   ) {
+    if (character === "None") return; // dont draw anything if None
     // Draw a colored placeholder rectangle
     const colors: { [key: string]: string } = {
       kris: "#4A90E2",
