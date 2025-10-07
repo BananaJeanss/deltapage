@@ -1,6 +1,13 @@
 import NextAuth from "next-auth";
 import Credentials from "next-auth/providers/credentials";
 
+type UserRole = "admin";
+interface AdminUser {
+  id: string;
+  name: string;
+  role: UserRole;
+}
+
 export const { handlers, signIn, signOut, auth } = NextAuth({
   session: { strategy: "jwt" },
   providers: [
@@ -10,7 +17,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
         username: { label: "Username", type: "text", placeholder: "admin" },
         password: { label: "Password", type: "password" },
       },
-      async authorize(credentials) {
+      async authorize(credentials): Promise<AdminUser | null> {
         if (!credentials) return null;
         const { username, password } = credentials as {
           username: string;
@@ -36,13 +43,17 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
   },
   callbacks: {
     async jwt({ token, user }) {
-      if (user) {
-        token.role = (user as any).role;
+      if (user && (user as AdminUser).role) {
+        token.role = (user as AdminUser).role;
       }
       return token;
     },
     async session({ session, token }) {
-      (session as any).role = token.role;
+      if (token.role) {
+        // ensure user object exists
+        session.user = session.user ?? {};
+        (session.user as AdminUser).role = token.role as UserRole;
+      }
       return session;
     },
   },

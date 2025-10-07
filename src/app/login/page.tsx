@@ -1,10 +1,10 @@
 "use client";
 
-import React, { useState } from "react";
-import { signIn } from "@/auth";
+import React, { useState, Suspense } from "react";
+import { signIn } from "next-auth/react";
 import { useRouter, useSearchParams } from "next/navigation";
 
-export default function LoginPage() {
+function LoginForm() {
   const router = useRouter();
   const params = useSearchParams();
   const error = params.get("error");
@@ -15,17 +15,21 @@ export default function LoginPage() {
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setSubmitting(true);
-    const res = await signIn("credentials", {
-      username,
-      password,
-      redirect: false,
-    });
-    setSubmitting(false);
-    if (!res || res.error) {
-      // stays on page; error handled below
-      return;
+    try {
+      const res = await signIn("credentials", {
+        username,
+        password,
+        redirect: false,
+      });
+      if (!res || res.error) {
+        return;
+      }
+      router.push("/");
+    } catch (err) {
+      console.error("Login failed", err);
+    } finally {
+      setSubmitting(false);
     }
-    router.push("/");
   }
 
   return (
@@ -37,13 +41,13 @@ export default function LoginPage() {
       >
         <label className="flex flex-col gap-1">
           <span>Username</span>
-            <input
-              className="border rounded p-2 bg-white dark:bg-black"
-              value={username}
-              onChange={(e) => setUsername(e.target.value)}
-              autoComplete="username"
-              required
-            />
+          <input
+            className="border rounded p-2 bg-white dark:bg-black"
+            value={username}
+            onChange={(e) => setUsername(e.target.value)}
+            autoComplete="username"
+            required
+          />
         </label>
         <label className="flex flex-col gap-1">
           <span>Password</span>
@@ -69,5 +73,20 @@ export default function LoginPage() {
         </button>
       </form>
     </div>
+  );
+}
+
+export default function LoginPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="flex flex-col items-center gap-6 w-full max-w-sm">
+          <h1>Login</h1>
+          <p className="text-sm text-gray-500">Loading...</p>
+        </div>
+      }
+    >
+      <LoginForm />
+    </Suspense>
   );
 }
