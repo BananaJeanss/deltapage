@@ -1,6 +1,6 @@
 "use server";
 
-import { createCanvas, loadImage, registerFont } from "canvas";
+import { createCanvas, loadImage, registerFont, type CanvasRenderingContext2D } from "canvas";
 import fs from "fs";
 import path from "path";
 
@@ -21,7 +21,6 @@ const choices = {
 export async function generateTextbox(
   text: string,
   sprite: keyof typeof choices,
-  style: string
  ) {
   // values
   const width = 640;
@@ -143,7 +142,7 @@ export async function generateTextbox(
 
   return canvas.toDataURL();
 
-  function drawPlaceholderSprite(ctx: any, character: string) {
+  function drawPlaceholderSprite(ctx: CanvasRenderingContext2D, character: string) {
     // Draw a colored placeholder rectangle
     const colors: { [key: string]: string } = {
       kris: "#4A90E2",

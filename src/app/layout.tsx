@@ -1,12 +1,8 @@
 import type { Metadata } from "next";
-import { Open_Sans, Lexend } from "next/font/google";
+import { Lexend } from "next/font/google";
 import Navbar, { NavLinks } from "@/components/navbar";
 import FooterComp from "@/components/footer";
 import "./globals.css";
-
-const openSans = Open_Sans({
-  variable: "--font-open-sans",
-});
 
 const lexend = Lexend({
   subsets: ["latin"],

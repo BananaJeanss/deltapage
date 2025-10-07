@@ -3,29 +3,7 @@
 import Image from "next/image";
 import { Menu } from "lucide-react";
 import Link from "next/link";
-
-const navLinks = [
-  {
-    title: "Home",
-    href: "/",
-    children: [],
-  },
-  {
-    title: "Textbox Generator",
-    href: "/textbox",
-    children: [],
-  },
-  {
-    title: "Radio",
-    href: "/radio",
-    children: [],
-  },
-  {
-    title: "Library of Links",
-    href: "/linkLibrary",
-    children: [],
-  }
-];
+import navLinks from "./navLinks.json";
 
 function openMenu() {
   const sidebar = document.getElementById("sidebar");
@@ -45,7 +23,7 @@ export default function Navbar() {
 export function TopBar() {
   return (
     <nav className="bg-gray-950 p-4 text-white">
-      <div className="container mx-auto flex items-center">
+      <div className="container mx-auto flex items-center gap-2">
         <button
           className="p-2 transition cursor-pointer"
           id="menu-button"
@@ -58,6 +36,8 @@ export function TopBar() {
           width={"100"}
           height={"100"}
           alt="Deltapage logo"
+          onClick={() => (window.location.href = "/")}
+          style={{ cursor: "pointer" }}
         />
       </div>
     </nav>

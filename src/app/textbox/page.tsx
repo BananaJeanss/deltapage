@@ -11,7 +11,7 @@ const choices = {
   ["None"]: null,
 };
 
-export default function textboxGenerator() {
+export default function TextboxGenerator() {
   const [text, setText] = React.useState("");
   const [sprite, setSprite] = React.useState("Kris");
   const [style, setStyle] = React.useState("Light World");
@@ -26,7 +26,6 @@ export default function textboxGenerator() {
       const result = await generateTextbox(
         text,
         sprite as keyof typeof choices,
-        style
       );
       setImageSrc(result);
     } catch (error) {
@@ -66,22 +65,32 @@ export default function textboxGenerator() {
         <div>
           {imageSrc ? (
             <div>
-            <img src={imageSrc} alt="Generated Textbox" />
-            <p className="text-sm text-blue-400 cursor-pointer" onClick={() => {
-                const link = document.createElement('a');
-                link.href = imageSrc;
-                link.download = 'textbox.png';
-                document.body.appendChild(link);
-                link.click();
-                document.body.removeChild(link);
-            }}>Download as PNG</p>
+              <img src={imageSrc} alt="Generated Textbox" />
+              <p
+                className="text-sm text-blue-400 cursor-pointer"
+                onClick={() => {
+                  const link = document.createElement("a");
+                  link.href = imageSrc;
+                  link.download = "textbox.png";
+                  document.body.appendChild(link);
+                  link.click();
+                  document.body.removeChild(link);
+                }}
+              >
+                Download as PNG
+              </p>
             </div>
           ) : (
             <p>No image generated yet.</p>
           )}
         </div>
         <div className="flex flex-col gap-2 w-full h-50 items-center">
-          <p className="flex items-center gap-2">Text<span className="text-sm text-gray-500">{charsLeft} characters left</span></p>
+          <p className="flex items-center gap-2">
+            Text
+            <span className="text-sm text-gray-500">
+              {charsLeft} characters left
+            </span>
+          </p>
           <textarea
             value={text}
             className="border border-gray-300 rounded p-2 h-full max-w-lg w-3/4"

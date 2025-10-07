@@ -1,14 +1,6 @@
 import Image from "next/image";
 import RecommendedTile from "@/components/recommendedTile";
-
-const recommendedPages = [
-  {
-    title: "Textbox Generator",
-    description: "Customizable UT/DR textbox generator",
-    link: "/textbox",
-    image: "/textbox.png",
-  },
-];
+import recommendedPages from "@/components/recommendedPages.json";
 
 export default function Home() {
   return (

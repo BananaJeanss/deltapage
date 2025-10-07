@@ -10,7 +10,7 @@ const DEFAULT_SELECTED_COLOR = "#000000";
 // based off this tutorial
 // https://www.youtube.com/watch?v=HN7FhKPTohA
 
-export default function spriteMakerPage() {
+export default function SpriteMakerPage() {
   const [gridSize, setGridSize] = React.useState(DEFAULT_GRID_SIZE);
   const [grid, setGrid] = React.useState<string[]>(
     Array(gridSize * gridSize).fill(DEFAULT_GRID_COLOR)

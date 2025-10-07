@@ -3,7 +3,6 @@
 import React from "react";
 
 import { Links } from "./library.json";
-import { link } from "fs";
 
 interface Link {
   category: string;
