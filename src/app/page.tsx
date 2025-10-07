@@ -8,7 +8,7 @@ export default function Home() {
       <div
         className={"py-12 rounded-xl w-3/4 justify-center relative"}
         style={{
-          backgroundImage: "url('/castle.webp')",
+          backgroundImage: "url('/Castle.webp')",
           backgroundPosition: "center",
           backgroundSize: "cover",
         }}
