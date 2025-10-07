@@ -5,6 +5,7 @@ import { Menu, X } from "lucide-react";
 import Link from "next/link";
 import navLinks from "./navLinks.json";
 import React from "react";
+import { useSession } from "next-auth/react";
 
 interface NavbarProps {
   sidebarOpen: boolean;
@@ -17,12 +18,9 @@ export default function Navbar(props: NavbarProps) {
   return <TopBar {...props} />;
 }
 
-function TopBar({
-  toggleSidebar,
-  openSidebar,
-  closeSidebar,
-}: NavbarProps) {
+function TopBar({ toggleSidebar, openSidebar, closeSidebar }: NavbarProps) {
   const [mobileDrawer, setMobileDrawer] = React.useState(false);
+  const { data: session, status } = useSession();
 
   return (
     <>
@@ -49,15 +47,26 @@ function TopBar({
             <Menu />
           </button>
 
-          <Image
-            src={"/delta.png"}
-            width={100}
-            height={100}
-            alt="Deltapage logo"
-            onClick={() => (window.location.href = "/")}
-            style={{ cursor: "pointer" }}
-            priority
-          />
+          <Link
+            href="/"
+            className="flex items-center"
+          >
+            <Image
+              src="/delta.png"
+              width={100}
+              height={100}
+              alt="Deltapage logo"
+              priority
+            />
+          </Link>
+
+          <div className="ml-auto">
+            {status === "authenticated" && (
+              <Link href="/admin" className="hover:underline">
+                Admin Page
+              </Link>
+            )}
+          </div>
         </div>
       </nav>
 

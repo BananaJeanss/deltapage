@@ -3,6 +3,7 @@ import { Lexend } from "next/font/google";
 import FooterComp from "@/components/footer";
 import AppFrame from "@/components/appFrame";
 import "./globals.css";
+import { SessionProvider } from "next-auth/react";
 
 const lexend = Lexend({
   subsets: ["latin"],
@@ -23,8 +24,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${lexend.variable} antialiased`}>
-        <AppFrame>{children}</AppFrame>
-        <FooterComp />
+        <SessionProvider>
+          <AppFrame>{children}</AppFrame>
+          <FooterComp />
+        </SessionProvider>
       </body>
     </html>
   );
