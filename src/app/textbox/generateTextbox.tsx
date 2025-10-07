@@ -1,6 +1,11 @@
 "use server";
 
-import { createCanvas, loadImage, registerFont, type CanvasRenderingContext2D } from "canvas";
+import {
+  createCanvas,
+  loadImage,
+  registerFont,
+  type CanvasRenderingContext2D,
+} from "canvas";
 import fs from "fs";
 import path from "path";
 
@@ -20,8 +25,8 @@ const choices = {
 // copied over from bananajeanss/ralseibot
 export async function generateTextbox(
   text: string,
-  sprite: keyof typeof choices,
- ) {
+  sprite: keyof typeof choices
+) {
   // values
   const width = 640;
   const height = 155;
@@ -44,26 +49,20 @@ export async function generateTextbox(
 
   // Load and draw character sprite
   try {
-    const spritePath = path.join(
-      process.cwd(),
-      "public",
-      "sprites",
-      `${sprite}.png`
-    );
-    if (fs.existsSync(spritePath)) {
-      const spriteImage = await loadImage(spritePath);
-      
-      // calc aspect ratio to prevent stretching for some sprites
-      // (calc is short for calculator)
-      const aspectRatio = spriteImage.width / spriteImage.height;
-      const drawWidth = spriteSize * aspectRatio;
-      const drawHeight = spriteSize;
-      
-      ctx.drawImage(spriteImage, spriteX, spriteY, drawWidth, drawHeight);
-    } else {
-      // Draw a placeholder if sprite doesn't exist
-      drawPlaceholderSprite(ctx, sprite);
-    }
+    // fuck vercel
+    const baseUrl = process.env.VERCEL_URL
+      ? `https://${process.env.VERCEL_URL}`
+      : `http://localhost:3000`;
+    const spriteUrl = `${baseUrl}/sprites/${sprite}.png`;
+    const spriteImage = await loadImage(spriteUrl);
+
+    // calc aspect ratio to prevent stretching for some sprites
+    // (calc is short for calculator)
+    const aspectRatio = spriteImage.width / spriteImage.height;
+    const drawWidth = spriteSize * aspectRatio;
+    const drawHeight = spriteSize;
+
+    ctx.drawImage(spriteImage, spriteX, spriteY, drawWidth, drawHeight);
   } catch (error) {
     console.log(`Could not load sprite for ${sprite}:`, error);
     // Draw a placeholder if sprite doesn't exist
@@ -105,15 +104,15 @@ export async function generateTextbox(
   const wrappedLines: string[] = [];
   for (const line of lines) {
     let remainingText = line;
-    
+
     while (remainingText.length > 0) {
       const lineMetrics = ctx.measureText(remainingText);
-      
+
       if (lineMetrics.width <= maxWidth) {
         wrappedLines.push(remainingText);
         break;
       }
-      
+
       let fit = "";
       for (let i = 1; i <= remainingText.length; i++) {
         const test = remainingText.substring(0, i);
@@ -122,11 +121,11 @@ export async function generateTextbox(
         }
         fit = test;
       }
-      
+
       if (fit.length === 0) {
         fit = remainingText.substring(0, 1);
       }
-      
+
       wrappedLines.push(fit);
       remainingText = remainingText.substring(fit.length);
     }
@@ -142,7 +141,10 @@ export async function generateTextbox(
 
   return canvas.toDataURL();
 
-  function drawPlaceholderSprite(ctx: CanvasRenderingContext2D, character: string) {
+  function drawPlaceholderSprite(
+    ctx: CanvasRenderingContext2D,
+    character: string
+  ) {
     // Draw a colored placeholder rectangle
     const colors: { [key: string]: string } = {
       kris: "#4A90E2",
