@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Lexend } from "next/font/google";
-import Navbar, { NavLinks } from "@/components/navbar";
 import FooterComp from "@/components/footer";
+import AppFrame from "@/components/appFrame";
 import "./globals.css";
 
 const lexend = Lexend({
@@ -23,16 +23,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${lexend.variable} antialiased`}>
-        <div className="flex flex-row w-full min-h-screen">
-          <NavLinks />
-          <div className="flex flex-col flex-1">
-            <Navbar />
-            <main className="flex flex-col items-center align-middle p-4 flex-1">
-              {children}
-            </main>
-            <FooterComp />
-          </div>
-        </div>
+        <AppFrame>{children}</AppFrame>
+        <FooterComp />
       </body>
     </html>
   );
