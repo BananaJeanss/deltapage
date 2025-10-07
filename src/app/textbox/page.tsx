@@ -106,7 +106,7 @@ export default function TextboxGenerator() {
           <div>
             <p>Sprite</p>
             <select
-              className="border border-gray-300 p-2 bg-black"
+              className="border border-gray-300 p-2 bg-white dark:bg-black"
               style={{ fontFamily: "Deltarune" }}
               id="sprite-select"
               onChange={(e) => setSprite(e.target.value)}
@@ -116,7 +116,7 @@ export default function TextboxGenerator() {
           <div>
             <p>Style</p>
             <select
-              className="border border-gray-300 p-2 bg-black"
+              className="border border-gray-300 p-2 bg-white dark:bg-black"
               style={{ fontFamily: "Deltarune" }}
               value={style}
               onChange={(e) => setStyle(e.target.value)}
