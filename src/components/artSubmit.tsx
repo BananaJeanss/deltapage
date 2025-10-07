@@ -2,32 +2,40 @@
 
 import { useState } from "react";
 import { submitArtwork } from "@/app/actions/artGallery";
-
+import { X } from "lucide-react";
 export default function SubmitArtwork() {
   const [submitting, setSubmitting] = useState(false);
 
-  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    if (submitting) return;
     setSubmitting(true);
-
-    const formData = new FormData(e.currentTarget);
-    const result = await submitArtwork(formData);
-
-    if (result.success) {
-      alert("Artwork submitted for review!");
-      e.currentTarget.reset();
-    } else {
-      alert("Failed to submit artwork");
+    try {
+      const formData = new FormData(e.currentTarget);
+      const result = await submitArtwork(formData);
+    } catch (err) {
+      console.error(err);
+    } finally {
+      setSubmitting(false);
     }
-
-    setSubmitting(false);
-  }
+  };
 
   return (
-    <div id="submitForm" className="absolute bg-black/50 w-screen h-screen top-0 left-0 flex items-center justify-center z-100">
-      <div className="bg-gray-950 border border-[#c7e3f2] p-6 rounded-lg shadow-lg w-96">
+    <div
+      id="submitForm"
+      className="absolute bg-black/50 w-screen h-screen top-0 left-0 hidden items-center justify-center z-100"
+    >
+      <div className="bg-gray-950 border border-[#c7e3f2] p-6 rounded-lg shadow-lg w-96 relative">
+        <X
+          className="absolute top-2 right-2 cursor-pointer hover:text-red-500"
+          size={20}
+          onClick={() => {
+            const form = document.getElementById("submitForm");
+            if (form) form.style.display = "none";
+          }}
+        />
         <h2 className="text-2xl font-bold mb-4">Submit Artwork</h2>
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleSubmit} method="POST" className="space-y-4">
           <div>
             <label className="block text-sm font-medium mb-1" htmlFor="title">
               Title
@@ -37,6 +45,7 @@ export default function SubmitArtwork() {
               type="text"
               id="title"
               name="title"
+              disabled={submitting}
             />
           </div>
           <div>
