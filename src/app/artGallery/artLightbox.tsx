@@ -80,6 +80,7 @@ export default function ArtLightbox() {
       >
         <X size={24} className="cursor-pointer"/>
       </button>
+      {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         id="lightboxImage"
         src=""

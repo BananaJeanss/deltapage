@@ -20,8 +20,8 @@ export default function Navbar(props: NavbarProps) {
 
 function TopBar({ toggleSidebar, openSidebar, closeSidebar }: NavbarProps) {
   const [mobileDrawer, setMobileDrawer] = React.useState(false);
-  {/* eslint-disable-next-line @typescript-eslint/no-unused-vars */}
   // eslint is stupid, maybe
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const { data: session, status } = useSession();
 
   return (
@@ -49,10 +49,7 @@ function TopBar({ toggleSidebar, openSidebar, closeSidebar }: NavbarProps) {
             <Menu />
           </button>
 
-          <Link
-            href="/"
-            className="flex items-center"
-          >
+          <Link href="/" className="flex items-center">
             <Image
               src="/delta.png"
               width={100}

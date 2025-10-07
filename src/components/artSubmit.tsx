@@ -13,6 +13,12 @@ export default function SubmitArtwork() {
     try {
       const formData = new FormData(e.currentTarget);
       const result = await submitArtwork(formData);
+        if (result.success) {
+            alert("Artwork submitted successfully! It will be reviewed shortly.");
+            // todo: i should add toast notifications but cba
+        } else {
+            alert("Failed to submit artwork: " + result.error);
+        }
     } catch (err) {
       console.error(err);
     } finally {
