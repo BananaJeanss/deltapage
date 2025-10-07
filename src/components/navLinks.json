@@ -5,6 +5,11 @@
     "children": []
   },
   {
+    "title": "Art Gallery",
+    "href": "/artGallery",
+    "children": []
+  },
+  {
     "title": "Textbox Generator",
     "href": "/textbox",
     "children": []

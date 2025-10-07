@@ -7,3 +7,15 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+model ArtGalleryPost {
+  id           Int      @id @default(autoincrement())
+  title        String? // Optional title
+  description  String? // Optional description
+  contentUrl   String // raw content URL
+  artistLink   String // Link to artist's page e.g. twitter, reddit, etc
+  artistHandle String // handle to display e.g. @artist
+  createdAt    DateTime @default(now()) // not necessary but why not  
+  reviewState  String   @default("approved") // "pending", "approved", "rejected"
+  // TODO: CHANGE THIS TO PENDING LATER YADAYADA COMPLETE ADMIN PANEL FIRST AAAAAA!!!!!!!!!!!!
+}

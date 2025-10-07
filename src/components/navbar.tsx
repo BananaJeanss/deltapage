@@ -20,6 +20,8 @@ export default function Navbar(props: NavbarProps) {
 
 function TopBar({ toggleSidebar, openSidebar, closeSidebar }: NavbarProps) {
   const [mobileDrawer, setMobileDrawer] = React.useState(false);
+  {/* eslint-disable-next-line @typescript-eslint/no-unused-vars */}
+  // eslint is stupid, maybe
   const { data: session, status } = useSession();
 
   return (
