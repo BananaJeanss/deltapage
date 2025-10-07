@@ -15,17 +15,12 @@ if (fs.existsSync(fontPath)) {
   registerFont(fontPath, { family: "DeterminationMono" });
 }
 
-const choices = {
-  Kris: "/sprites/kris.png",
-  Susie: "/sprites/susie.png",
-  Ralsei: "/sprites/ralsei.png",
-  None: null,
-} as const;
+type choices = "Kris" | "Susie" | "Ralsei" | "None";
 
 // copied over from bananajeanss/ralseibot
 export async function generateTextbox(
   text: string,
-  sprite: keyof typeof choices
+  sprite: choices
 ) {
   // values
   const width = 640;

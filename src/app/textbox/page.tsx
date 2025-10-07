@@ -65,6 +65,7 @@ export default function TextboxGenerator() {
         <div>
           {imageSrc ? (
             <div>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={imageSrc} alt="Generated Textbox" />
               <p
                 className="text-sm text-blue-400 cursor-pointer"
