@@ -10,5 +10,11 @@
     "description": "A large collection of UT/DR related links",
     "link": "/linkLibrary",
     "image": "/gersonboom.webp"
+  },
+  {
+    "title": "Sprite Maker",
+    "description": "A basic sprite/pixel art maker.",
+    "link": "/spriteMaker",
+    "image": "/friend.png"
   }
 ]
