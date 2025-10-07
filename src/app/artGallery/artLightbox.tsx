@@ -83,7 +83,7 @@ export default function ArtLightbox() {
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         id="lightboxImage"
-        src=""
+        src="null"
         alt="Expanded artwork"
         className="max-h-[70vh] max-w-[90vw] object-contain rounded shadow-lg"
       />

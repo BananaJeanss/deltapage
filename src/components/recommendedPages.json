@@ -16,5 +16,11 @@
     "description": "A basic sprite/pixel art maker.",
     "link": "/spriteMaker",
     "image": "/friend.png"
+  },
+  {
+    "title": "Art Gallery",
+    "description": "A collection of user-submitted Undertale/Deltarune art.",
+    "link": "/artGallery",
+    "image": "/starwalker.png"
   }
 ]

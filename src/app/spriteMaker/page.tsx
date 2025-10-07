@@ -95,6 +95,7 @@ export default function SpriteMakerPage() {
           <span className="mr-2">Grid Lines</span>
           <input
             type="checkbox"
+            defaultChecked
             className="border p-4 rounded cursor-pointer"
             value="Show/Hide Grid Lines"
             onClick={() => {
