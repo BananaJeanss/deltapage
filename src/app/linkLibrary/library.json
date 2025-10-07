@@ -1,10 +1,102 @@
 {
-  "Links": [
-    {
-      "category": "Cat1",
-      "title": "Example 1",
-      "description": "This is an example description.",
-      "link": "/example1"
-    }
-  ]
+  "Links": {
+    "Undertale": [
+      {
+        "category": "Undertale",
+        "title": "Undertale Wiki",
+        "description": "The official Undertale Wiki.",
+        "link": "https://undertale.wiki/"
+      },
+      {
+        "category": "Undertale",
+        "title": "undertale.com",
+        "description": "The official Undertale website.",
+        "link": "https://undertale.com/"
+      },
+      {
+        "category": "Undertale",
+        "title": "Undertale on Steam",
+        "description": "Undertale's page on Steam.",
+        "link": "https://store.steampowered.com/app/391540/Undertale/"
+      },
+      {
+        "category": "Undertale",
+        "title": "UNDERTALE Soundtrack (Bandcamp)",
+        "description": "Official UNDERTALE soundtrack by Toby Fox (Bandcamp).",
+        "link": "https://tobyfox.bandcamp.com/album/undertale-soundtrack"
+      },
+      {
+        "category": "Undertale",
+        "title": "UNDERTALE Soundtrack (Spotify)",
+        "description": "UNDERTALE soundtrack on Spotify.",
+        "link": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      {
+        "category": "Undertale",
+        "title": "Undertale on GOG",
+        "description": "UNDERTALE storefront on GOG.com (DRM-free purchase).",
+        "link": "https://www.gog.com/en/game/undertale"
+      },
+      {
+        "category": "Undertale",
+        "title": "r/Undertale (Reddit)",
+        "description": "Community subreddit for Undertale discussion.",
+        "link": "https://www.reddit.com/r/Undertale/"
+      }
+    ],
+    "Deltarune": [
+      {
+        "category": "Deltarune",
+        "title": "Deltarune Wiki",
+        "description": "The official Deltarune Wiki.",
+        "link": "https://deltarune.wiki/"
+      },
+      {
+        "category": "Deltarune",
+        "title": "deltarune.com",
+        "description": "The official Deltarune website.",
+        "link": "https://deltarune.com/"
+      },
+      {
+        "category": "Deltarune",
+        "title": "Deltarune on Steam",
+        "description": "Deltarune's page on Steam.",
+        "link": "https://store.steampowered.com/app/1671210/DELTARUNE/"
+      },
+      {
+        "category": "Deltarune",
+        "title": "r/Deltarune (Reddit)",
+        "description": "Community subreddit for Deltarune discussion, news, and theories.",
+        "link": "https://www.reddit.com/r/Deltarune/"
+      }
+    ],
+    "Undertale Yellow": [
+      {
+        "category": "Undertale Yellow",
+        "title": "Undertale Yellow (GameJolt)",
+        "description": "Fan-made prequel to Undertale, GameJolt page and downloads.",
+        "link": "https://gamejolt.com/games/UndertaleYellow/136925"
+      },
+      {
+        "category": "Undertale Yellow",
+        "title": "Undertale Yellow Modding Hub (GameBanana)",
+        "description": "Modding and community resources for Undertale Yellow.",
+        "link": "https://gamebanana.com/games/19606"
+      }
+    ],
+    "Toby Fox": [
+      {
+        "category": "Toby Fox",
+        "title": "Toby Fox — Music (Bandcamp)",
+        "description": "Toby Fox's Bandcamp page",
+        "link": "https://tobyfox.bandcamp.com/music"
+      },
+      {
+        "category": "Toby Fox",
+        "title": "Toby Fox (official X/Twitter)",
+        "description": "Toby Fox's official X (Twitter) profile",
+        "link": "https://x.com/tobyfox"
+      }
+    ]
+  }
 }
