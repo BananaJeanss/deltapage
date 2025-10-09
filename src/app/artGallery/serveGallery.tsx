@@ -1,11 +1,11 @@
-"use server";
-
 import { PrismaClient } from "../../../generated/prisma";
 import GalleryGrid from "./GalleryGrid";
+import { unstable_noStore } from "next/cache";
 
 const prisma = new PrismaClient();
 
 export default async function ServeGallery() {
+  unstable_noStore();
   // fetch only approved posts
   const posts = await prisma.artGalleryPost.findMany({
     where: { reviewState: "approved" },

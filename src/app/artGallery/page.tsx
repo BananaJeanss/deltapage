@@ -3,6 +3,8 @@ import ServeGallery from "./serveGallery";
 import FormToggleNotice from "./FormToggle";
 import ArtLightbox from "./artLightbox";
 
+export const dynamic = "force-dynamic"
+
 export default function ArtGallery() {
   return (
     <div className="flex flex-col items-center">
