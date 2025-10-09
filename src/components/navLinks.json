@@ -15,11 +15,6 @@
     "children": []
   },
   {
-    "title": "Radio",
-    "href": "/radio",
-    "children": []
-  },
-  {
     "title": "Library of Links",
     "href": "/linkLibrary",
     "children": []
@@ -27,6 +22,26 @@
   {
     "title": "Sprite Maker",
     "href": "/spriteMaker",
+    "children": []
+  },
+  {
+    "title": "Radio",
+    "href": "/radio",
+    "children": []
+  },
+  {
+    "title": "Maps",
+    "href": "/maps",
+    "children": []
+  },
+  {
+    "title": "Sprites",
+    "href": "/sprites",
+    "children": []
+  },
+  {
+    "title": "Dialogue",
+    "href": "/dialogue",
     "children": []
   }
 ]
