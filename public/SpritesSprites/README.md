@@ -10,9 +10,8 @@ For obvious reasons I will not be putting the 50k sprites deltarune has in this 
 4. No padding, Yes for subfolders
 5. Copy the subfolders into the Chapter[.] folders ofc
 
-## Organizing the subfolders
+## Uploading to blob
 
-This is a bit messy, and the organizer.js does the bare minimum, but it's better than nothing.
-
-1. Run `node organizer.js`
-2. Profit
+1. Make sure you have the `BLOB_READ_WRITE_TOKEN` set in .env
+2. Run `node organizer.js` and wait
+3. Profit
