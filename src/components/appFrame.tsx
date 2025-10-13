@@ -2,6 +2,7 @@
 
 import React from "react";
 import Navbar, { NavLinks } from "@/components/navbar";
+import KonamiCode from "./konamiCode";
 
 interface AppFrameProps {
   children: React.ReactNode;
@@ -27,6 +28,7 @@ export default function AppFrame({ children }: AppFrameProps) {
         <main className="flex flex-col items-center align-middle p-4 flex-1 w-full">
           {children}
         </main>
+        <KonamiCode />
       </div>
     </div>
   );
