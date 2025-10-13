@@ -85,6 +85,7 @@ export default function SpritesClient({
             }}
             title={img}
           >
+            {/* eslint-disable @next/next/no-img-element */}
             <img
               src={encodeURI(img)}
               alt={img}

@@ -4,25 +4,17 @@ import { useMemo, useState } from "react";
 import type { DialogueData } from "./page";
 
 export default function DialogueClient({ data }: { data: DialogueData }) {
-  const [selectedGame, setSelectedGame] = useState("Deltarune");
   const chapters = useMemo(() => Object.keys(data).sort(), [data]);
+  const selectedGame = "Deltarune"; // i cba to add undertale support the strings from data.win are too messy
   const [selectedChapter, setSelectedChapter] = useState(chapters[0] || "ch1");
   const [lang, setLang] = useState<"en" | "ja">("en");
 
   const lines = data[selectedChapter]?.[lang] ?? [];
 
   return (
-    <div>
+    <div className="flex flex-col items-center ">
       <h1>Dialogues</h1>
       <div className="flex flex-row gap-4 mb-4">
-        <select
-          className="border border-gray-300 p-2 bg-white dark:bg-black"
-          onChange={(e) => setSelectedGame(e.target.value)}
-          value={selectedGame}
-        >
-          <option value="Deltarune">Deltarune</option>
-          <option value="Undertale">Undertale</option>
-        </select>
 
         {selectedGame === "Deltarune" && (
           <>
@@ -54,9 +46,9 @@ export default function DialogueClient({ data }: { data: DialogueData }) {
         {lines.length === 0 ? (
           <p className="text-gray-500">No dialogue found.</p>
         ) : (
-          <ul className="list-disc ml-6">
+          <ul className="list-disc ml-6 flex flex-col items-center justify-center text-wrap">
             {lines.map((l, i) => (
-              <li key={i}>{l}</li>
+              <li key={i} className="text-wrap break-all overflow-hidden">{l}</li>
             ))}
           </ul>
         )}

@@ -5,11 +5,11 @@ import path from "path";
 
 export type DialogueData = Record<string, { en: string[]; ja: string[] }>;
 
-function normalizeDialogue(s: string) {
+function normalizeDialogue(s: string) { // replaces & with newlines and trims
   return s.replaceAll("&", "\n").trim();
 }
 
-function isMeta(line: string) {
+function isMeta(line: string) { // a lot of filters to seperate the non dialogue stuff
   const l = line.trim();
   if (!l) return true;
   if (l.startsWith("obj_")) return true;
@@ -61,11 +61,20 @@ function isMeta(line: string) {
 
   if (l.startsWith("***")) return true;
   if (l.includes("#define")) return true;
+  if (l.includes("L0L0L0")) return true;
+  if (l.includes("W0W0W0")) return true
+  if (l.endsWith(" space=")) return true;
+  if (l.endsWith(".ogg")) return true;
+  if (l.endsWith(".wav")) return true;
+  if (l.endsWith(".png")) return true;
+  if (l.endsWith(".jpg")) return true;
+  if (l.includes(`{ "`)) return true;
 
   return false;
 }
-function extractEnglishDialogues(lines: string[]) {
-  let out: string[] = [];
+
+function extractEnglishDialogues(lines: string[]) { // english has meta lines in the json unlike japanese
+  const out: string[] = [];
   for (let i = 0; i < lines.length; i++) {
     const line = String(lines[i] ?? "").trim();
     if (!line || line === "%") continue;
@@ -89,7 +98,7 @@ function extractEnglishDialogues(lines: string[]) {
 }
 
 function extractJapaneseDialogues(lines: string[]) {
-  let temp1 = lines.map(String).map(normalizeDialogue).filter(Boolean);
+  const temp1 = lines.map(String).map(normalizeDialogue).filter(Boolean);
   return temp1
     .map(ParseUnicodeEscapeSequences)
     .filter((s) => s.trim().length > 0);
@@ -219,6 +228,5 @@ export function getDialogueData(): DialogueData {
 
 export default function DialoguePage() {
   const data = getDialogueData();
-  console.log("Chapters data loaded for chapters:", Object.keys(data));
   return <DialogueClient data={data} />;
 }
