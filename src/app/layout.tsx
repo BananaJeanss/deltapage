@@ -4,6 +4,7 @@ import FooterComp from "@/components/footer";
 import AppFrame from "@/components/appFrame";
 import "./globals.css";
 import { SessionProvider } from "next-auth/react";
+import { Analytics } from "@vercel/analytics/next"
 
 const lexend = Lexend({
   subsets: ["latin"],
@@ -24,6 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${lexend.variable} antialiased`}>
+        <Analytics />
         <SessionProvider>
           <AppFrame>{children}</AppFrame>
           <FooterComp />
