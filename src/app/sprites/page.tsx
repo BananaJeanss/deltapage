@@ -4,6 +4,8 @@ import SpritesClient from "./spritesclient";
 
 export const dynamic = "force-static";
 
+const CDN_BASE = process.env.SPRITES_CDN_BASE || "https://deltapagesprites.bnajns.hackclub.app";
+
 function getSpritesData() {
   const rootDir = path.join(process.cwd(), "public", "SpritesSprites");
   const chapters = fs
@@ -38,7 +40,7 @@ function getSpritesData() {
 
     for (const charFolder of charFolders) {
       const charPath = path.join(chapterPath, charFolder);
-      const urlBase = `/SpritesSprites/${chapter}/${charFolder}`;
+      const urlBase = `${CDN_BASE}/${chapter}/${charFolder}`;
       const files = collectImagesRecursively(charPath, urlBase);
 
       data[chapter][charFolder] = files;

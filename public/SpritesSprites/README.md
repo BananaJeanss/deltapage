@@ -10,8 +10,20 @@ For obvious reasons I will not be putting the 50k sprites deltarune has in this 
 4. No padding, Yes for subfolders
 5. Copy the subfolders into the Chapter[.] folders ofc
 
-## Uploading to blob
+## Uploading to any server
 
-1. Make sure you have the `BLOB_READ_WRITE_TOKEN` set in .env
-2. Run `node organizer.js` and wait
-3. Profit
+I will be using Caddy for this
+
+1. Upload files to server
+2. Setup Caddyfile to look like something like this:
+  ```caddy
+    root * /home/youruser/deltapagesprites
+    file_server {
+        browse
+        hide .git .env
+    }
+  ```
+3. Set the SPRITES_CDN_BASE in `.env`
+4. Profit???
+
+Pro tip: Don't try to use vercel blobs for this. It will not end up well.
