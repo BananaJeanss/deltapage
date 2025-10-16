@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import { Play, Pause } from "lucide-react";
 
 // this expects the radio to use https://github.com/BananaJeanss/tsradio
-export default function radioPage() {
+export default function RadioPage() {
   const [songInfo, setSongInfo] = useState({
     title: "Unknown",
     artist: "Unknown",
