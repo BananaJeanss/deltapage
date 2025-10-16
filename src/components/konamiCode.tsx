@@ -1,19 +1,21 @@
 import { useEffect, useRef } from "react";
 
+const konamiSequence = [
+  "ArrowUp",
+  "ArrowUp",
+  "ArrowDown",
+  "ArrowDown",
+  "ArrowLeft",
+  "ArrowRight",
+  "ArrowLeft",
+  "ArrowRight",
+  "b",
+  "a",
+];
+
 export default function KonamiCode() {
   const keysPressed = useRef<string[]>([]);
-  const konamiSequence = [
-    "ArrowUp",
-    "ArrowUp",
-    "ArrowDown",
-    "ArrowDown",
-    "ArrowLeft",
-    "ArrowRight",
-    "ArrowLeft",
-    "ArrowRight",
-    "b",
-    "a",
-  ];
+
   const alreadyPlayed = useRef(false);
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -21,7 +23,11 @@ export default function KonamiCode() {
       if (keysPressed.current.length > konamiSequence.length) {
         keysPressed.current.shift();
       }
-      if (JSON.stringify(keysPressed.current) === JSON.stringify(konamiSequence) && !alreadyPlayed.current) {
+      if (
+        JSON.stringify(keysPressed.current) ===
+          JSON.stringify(konamiSequence) &&
+        !alreadyPlayed.current
+      ) {
         keysPressed.current = [];
         console.log("Konami Code entered!");
         const audio = new Audio("/cyber_battle_end.ogg");

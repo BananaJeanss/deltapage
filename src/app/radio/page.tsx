@@ -3,6 +3,8 @@
 import { useState, useEffect, useRef } from "react";
 import { Play, Pause } from "lucide-react";
 
+const RADIO_BACKEND_URL = (process.env.NEXT_PUBLIC_RADIO_BACKEND_URL || "https://tsradio.bnajns.hackclub.app/").replace(/\/?$/, '/');
+
 // this expects the radio to use https://github.com/BananaJeanss/tsradio
 export default function RadioPage() {
   const [songInfo, setSongInfo] = useState({
@@ -13,12 +15,12 @@ export default function RadioPage() {
     genre: "Unknown",
   });
   const [coverUrl, setCoverUrl] = useState(
-    "https://tsradio.bnajns.hackclub.app/albumcover"
+    `${RADIO_BACKEND_URL}albumcover}`
   );
 
   useEffect(() => {
     function getMetadata() {
-      fetch(`https://tsradio.bnajns.hackclub.app/metadata`)
+      fetch(`${RADIO_BACKEND_URL}metadata`)
         .then((res) => res.json())
         .then((data) => {
           setSongInfo(data);
@@ -36,7 +38,7 @@ export default function RadioPage() {
   }, []);
 
   useEffect(() => {
-    setCoverUrl(`https://tsradio.bnajns.hackclub.app/albumcover?${Date.now()}`);
+    setCoverUrl(`${RADIO_BACKEND_URL}albumcover?${Date.now()}`);
   }, [songInfo.title]);
 
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -65,7 +67,7 @@ export default function RadioPage() {
       <audio
         ref={audioRef}
         id="radio-player"
-        src="https://tsradio.bnajns.hackclub.app/stream"
+        src={`${RADIO_BACKEND_URL}stream`}
         autoPlay
         controls={false}
       />
@@ -84,6 +86,7 @@ export default function RadioPage() {
           <span>{songInfo.title}</span>
           <span className="text-sm text-white/50">{songInfo.artist}</span>
         </div>
+        { /* eslint-disable-next-line @next/next/no-img-element */ }
         <img
           src={coverUrl}
           alt="Album Cover"
@@ -98,6 +101,7 @@ export default function RadioPage() {
           <p>Album: {songInfo.album}</p>
           <p>Genre: {songInfo.genre}</p>
           <p>Length: {humanReadableLength(songInfo.length)}</p>
+          <p>Backend/Source URL: <a href={RADIO_BACKEND_URL}>{RADIO_BACKEND_URL}</a></p>
         </div>
       </details>
     </div>
