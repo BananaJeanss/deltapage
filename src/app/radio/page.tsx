@@ -12,6 +12,9 @@ export default function RadioPage() {
     length: 0,
     genre: "Unknown",
   });
+  const [coverUrl, setCoverUrl] = useState(
+    "https://tsradio.bnajns.hackclub.app/albumcover"
+  );
 
   useEffect(() => {
     function getMetadata() {
@@ -32,6 +35,10 @@ export default function RadioPage() {
     return () => clearInterval(interval);
   }, []);
 
+  useEffect(() => {
+    setCoverUrl(`https://tsradio.bnajns.hackclub.app/albumcover?${Date.now()}`);
+  }, [songInfo.title]);
+
   const audioRef = useRef<HTMLAudioElement>(null);
   const [isPlaying, setIsPlaying] = useState(false);
 
@@ -49,7 +56,7 @@ export default function RadioPage() {
 
   const humanReadableLength = (length: number) => {
     const minutes = Math.floor(length / 60);
-    const seconds = length % 60;
+    const seconds = Math.floor(length % 60);
     return `${minutes}:${seconds < 10 ? "0" : ""}${seconds}`;
   };
   return (
@@ -63,7 +70,10 @@ export default function RadioPage() {
         controls={false}
       />
 
-      <div className="flex items-center gap-4 mt-2 border border-white border-4 bg-black p-4" style={{ fontFamily: `var(--deltafont)`}}>
+      <div
+        className="flex items-center gap-4 mt-2 border-white border-4 bg-black p-4"
+        style={{ fontFamily: `var(--deltafont)` }}
+      >
         <button
           onClick={togglePlay}
           className="p-3 bg-white/10 hover:bg-white/20 rounded-full transition"
@@ -74,6 +84,11 @@ export default function RadioPage() {
           <span>{songInfo.title}</span>
           <span className="text-sm text-white/50">{songInfo.artist}</span>
         </div>
+        <img
+          src={coverUrl}
+          alt="Album Cover"
+          className="w-16 h-16 object-cover"
+        />
       </div>
       <details className="mt-4 text-sm text-white/50">
         <summary className="cursor-pointer">Metadata</summary>
