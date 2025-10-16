@@ -99,7 +99,6 @@ export default function RadioPage() {
           <p>Song Name: {songInfo.title}</p>
           <p>Artist: {songInfo.artist}</p>
           <p>Album: {songInfo.album}</p>
-          <p>Genre: {songInfo.genre}</p>
           <p>Length: {humanReadableLength(songInfo.length)}</p>
           <p>Backend/Source URL: <a href={RADIO_BACKEND_URL}>{RADIO_BACKEND_URL}</a></p>
         </div>
