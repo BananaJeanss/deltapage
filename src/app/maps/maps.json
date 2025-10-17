@@ -1,0 +1,4002 @@
+{
+  "chapter1": [
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/PLACE_CONTACT.png",
+      "filename": "PLACE_CONTACT.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/PLACE_DOG.png",
+      "filename": "PLACE_DOG.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/PLACE_FAILURE.png",
+      "filename": "PLACE_FAILURE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/PLACE_LOGO.png",
+      "filename": "PLACE_LOGO.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/PLACE_MENU.png",
+      "filename": "PLACE_MENU.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_alphysalley.png",
+      "filename": "room_alphysalley.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_alphysclass.png",
+      "filename": "room_alphysclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_battletest.png",
+      "filename": "room_battletest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_beach.png",
+      "filename": "room_beach.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_castle_darkdoor.png",
+      "filename": "room_castle_darkdoor.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_castle_front.png",
+      "filename": "room_castle_front.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_castle_outskirts.png",
+      "filename": "room_castle_outskirts.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_castle_town.png",
+      "filename": "room_castle_town.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_castle_tutorial.png",
+      "filename": "room_castle_tutorial.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_1f.png",
+      "filename": "room_cc_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_2f.png",
+      "filename": "room_cc_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_3f.png",
+      "filename": "room_cc_3f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_4f.png",
+      "filename": "room_cc_4f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_5f.png",
+      "filename": "room_cc_5f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_6f.png",
+      "filename": "room_cc_6f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_clover.png",
+      "filename": "room_cc_clover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_elevator.png",
+      "filename": "room_cc_elevator.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_entrance.png",
+      "filename": "room_cc_entrance.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_fountain.png",
+      "filename": "room_cc_fountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_hathy.png",
+      "filename": "room_cc_hathy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_joker.png",
+      "filename": "room_cc_joker.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_kingbattle.png",
+      "filename": "room_cc_kingbattle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_lancer.png",
+      "filename": "room_cc_lancer.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_prefountain.png",
+      "filename": "room_cc_prefountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_preroof.png",
+      "filename": "room_cc_preroof.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_prison2.png",
+      "filename": "room_cc_prison2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_prisonelevator.png",
+      "filename": "room_cc_prisonelevator.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_prisonlancer.png",
+      "filename": "room_cc_prisonlancer.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_prison_cells.png",
+      "filename": "room_cc_prison_cells.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_prison_prejoker.png",
+      "filename": "room_cc_prison_prejoker.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_prison_to_elevator.png",
+      "filename": "room_cc_prison_to_elevator.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_rudinn.png",
+      "filename": "room_cc_rudinn.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_rurus1.png",
+      "filename": "room_cc_rurus1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_rurus2.png",
+      "filename": "room_cc_rurus2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_cc_throneroom.png",
+      "filename": "room_cc_throneroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_chapter_continue.png",
+      "filename": "room_chapter_continue.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark1.png",
+      "filename": "room_dark1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark1a.png",
+      "filename": "room_dark1a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark2.png",
+      "filename": "room_dark2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark3.png",
+      "filename": "room_dark3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark3a.png",
+      "filename": "room_dark3a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark7.png",
+      "filename": "room_dark7.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_DARKempty.png",
+      "filename": "room_DARKempty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark_chase1.png",
+      "filename": "room_dark_chase1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark_chase2.png",
+      "filename": "room_dark_chase2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark_eyepuzzle.png",
+      "filename": "room_dark_eyepuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_dark_wobbles.png",
+      "filename": "room_dark_wobbles.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_diner.png",
+      "filename": "room_diner.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_ed.png",
+      "filename": "room_ed.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_empty.png",
+      "filename": "room_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field1.png",
+      "filename": "room_field1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field2.png",
+      "filename": "room_field2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field2A.png",
+      "filename": "room_field2A.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field3.png",
+      "filename": "room_field3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field4.png",
+      "filename": "room_field4.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_boxpuzzle.png",
+      "filename": "room_field_boxpuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkers1.png",
+      "filename": "room_field_checkers1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkers2.png",
+      "filename": "room_field_checkers2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkers3.png",
+      "filename": "room_field_checkers3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkers4.png",
+      "filename": "room_field_checkers4.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkers5.png",
+      "filename": "room_field_checkers5.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkers6.png",
+      "filename": "room_field_checkers6.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkers7.png",
+      "filename": "room_field_checkers7.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_checkersboss.png",
+      "filename": "room_field_checkersboss.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_forest.png",
+      "filename": "room_field_forest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_getsusie.png",
+      "filename": "room_field_getsusie.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_maze.png",
+      "filename": "room_field_maze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_puzzle1.png",
+      "filename": "room_field_puzzle1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_puzzle2.png",
+      "filename": "room_field_puzzle2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_puzzletutorial.png",
+      "filename": "room_field_puzzletutorial.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_secret1.png",
+      "filename": "room_field_secret1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_shop1.png",
+      "filename": "room_field_shop1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_start.png",
+      "filename": "room_field_start.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_field_topchef.png",
+      "filename": "room_field_topchef.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_flowershop_1f.png",
+      "filename": "room_flowershop_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_flowershop_2f.png",
+      "filename": "room_flowershop_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_afterthrash2.png",
+      "filename": "room_forest_afterthrash2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_afterthrash3.png",
+      "filename": "room_forest_afterthrash3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_afterthrash4.png",
+      "filename": "room_forest_afterthrash4.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area0.png",
+      "filename": "room_forest_area0.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area1.png",
+      "filename": "room_forest_area1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area2.png",
+      "filename": "room_forest_area2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area2A.png",
+      "filename": "room_forest_area2A.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area3.png",
+      "filename": "room_forest_area3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area3A.png",
+      "filename": "room_forest_area3A.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area4.png",
+      "filename": "room_forest_area4.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_area5.png",
+      "filename": "room_forest_area5.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_beforeclover.png",
+      "filename": "room_forest_beforeclover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_castlefront.png",
+      "filename": "room_forest_castlefront.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_castleview.png",
+      "filename": "room_forest_castleview.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_chase1.png",
+      "filename": "room_forest_chase1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_chase2.png",
+      "filename": "room_forest_chase2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_dancers1.png",
+      "filename": "room_forest_dancers1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_fightsusie.png",
+      "filename": "room_forest_fightsusie.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_maze1.png",
+      "filename": "room_forest_maze1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_maze2.png",
+      "filename": "room_forest_maze2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_maze_deadend.png",
+      "filename": "room_forest_maze_deadend.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_maze_deadend2.png",
+      "filename": "room_forest_maze_deadend2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_maze_susie.png",
+      "filename": "room_forest_maze_susie.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_puzzle1.png",
+      "filename": "room_forest_puzzle1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_savepoint1.png",
+      "filename": "room_forest_savepoint1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_savepoint2.png",
+      "filename": "room_forest_savepoint2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_savepoint3.png",
+      "filename": "room_forest_savepoint3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_savepoint_relax.png",
+      "filename": "room_forest_savepoint_relax.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_secret1.png",
+      "filename": "room_forest_secret1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_smith.png",
+      "filename": "room_forest_smith.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_starwalker.png",
+      "filename": "room_forest_starwalker.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_forest_thrashmaker.png",
+      "filename": "room_forest_thrashmaker.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_gameover.png",
+      "filename": "room_gameover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_graveyard.png",
+      "filename": "room_graveyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_hospital_hallway.png",
+      "filename": "room_hospital_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_hospital_lobby.png",
+      "filename": "room_hospital_lobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_hospital_room2.png",
+      "filename": "room_hospital_room2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_hospital_rudy.png",
+      "filename": "room_hospital_rudy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/ROOM_INITIALIZE.png",
+      "filename": "ROOM_INITIALIZE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_insidecloset.png",
+      "filename": "room_insidecloset.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_krishallway.png",
+      "filename": "room_krishallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_krisroom.png",
+      "filename": "room_krisroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_legend.png",
+      "filename": "room_legend.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_library.png",
+      "filename": "room_library.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_man.png",
+      "filename": "room_man.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_myroom_dark.png",
+      "filename": "room_myroom_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_schooldoor.png",
+      "filename": "room_schooldoor.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_schoollobby.png",
+      "filename": "room_schoollobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_school_unusedroom.png",
+      "filename": "room_school_unusedroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_shop1.png",
+      "filename": "room_shop1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_shop2.png",
+      "filename": "room_shop2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_splashscreen.png",
+      "filename": "room_splashscreen.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_torbathroom.png",
+      "filename": "room_torbathroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_torhouse.png",
+      "filename": "room_torhouse.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_torielclass.png",
+      "filename": "room_torielclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_torroom.png",
+      "filename": "room_torroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_townhall.png",
+      "filename": "room_townhall.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_apartments.png",
+      "filename": "room_town_apartments.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_church.png",
+      "filename": "room_town_church.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_krisyard.png",
+      "filename": "room_town_krisyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_mid.png",
+      "filename": "room_town_mid.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_north.png",
+      "filename": "room_town_north.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_northwest.png",
+      "filename": "room_town_northwest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_school.png",
+      "filename": "room_town_school.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_shelter.png",
+      "filename": "room_town_shelter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter1/room_town_south.png",
+      "filename": "room_town_south.png"
+    }
+  ],
+  "chapter2": [
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/PLACE_CONTACT.png",
+      "filename": "PLACE_CONTACT.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/PLACE_DOG.png",
+      "filename": "PLACE_DOG.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/PLACE_DOGCHECK2.png",
+      "filename": "PLACE_DOGCHECK2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/PLACE_FAILURE.png",
+      "filename": "PLACE_FAILURE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/PLACE_LOGO.png",
+      "filename": "PLACE_LOGO.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/PLACE_MENU.png",
+      "filename": "PLACE_MENU.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/PLACE_NAMING_JIKKEN.png",
+      "filename": "PLACE_NAMING_JIKKEN.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_alphysalley.png",
+      "filename": "room_alphysalley.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_alphysclass.png",
+      "filename": "room_alphysclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_battletest.png",
+      "filename": "room_battletest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_beach.png",
+      "filename": "room_beach.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_bullettest.png",
+      "filename": "room_bullettest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_castle_town.png",
+      "filename": "room_castle_town.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_castle_tutorial.png",
+      "filename": "room_castle_tutorial.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_cc_clover.png",
+      "filename": "room_cc_clover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_cc_fountain.png",
+      "filename": "room_cc_fountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_cc_lancer.png",
+      "filename": "room_cc_lancer.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_chapter_continue.png",
+      "filename": "room_chapter_continue.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_cutscene_tester.png",
+      "filename": "room_cutscene_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_cutscene_tester_b.png",
+      "filename": "room_cutscene_tester_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_DARKbase_GMS2.png",
+      "filename": "room_DARKbase_GMS2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_DARKempty.png",
+      "filename": "room_DARKempty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_battle.png",
+      "filename": "room_debug_battle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_battleBalloon.png",
+      "filename": "room_debug_battleBalloon.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_choicer_dark.png",
+      "filename": "room_debug_choicer_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_choicer_light.png",
+      "filename": "room_debug_choicer_light.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_color.png",
+      "filename": "room_debug_color.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_loc.png",
+      "filename": "room_debug_loc.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_smallface.png",
+      "filename": "room_debug_smallface.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_debug_smallface_dark.png",
+      "filename": "room_debug_smallface_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_diner.png",
+      "filename": "room_diner.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_area_1.png",
+      "filename": "room_dw_castle_area_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_area_2.png",
+      "filename": "room_dw_castle_area_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_area_2_transformed.png",
+      "filename": "room_dw_castle_area_2_transformed.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_cafe.png",
+      "filename": "room_dw_castle_cafe.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_dojo.png",
+      "filename": "room_dw_castle_dojo.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_dungeon.png",
+      "filename": "room_dw_castle_dungeon.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_east_door.png",
+      "filename": "room_dw_castle_east_door.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_restaurant.png",
+      "filename": "room_dw_castle_restaurant.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_rooms_hallway.png",
+      "filename": "room_dw_castle_rooms_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_rooms_kris.png",
+      "filename": "room_dw_castle_rooms_kris.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_rooms_lancer.png",
+      "filename": "room_dw_castle_rooms_lancer.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_rooms_susie.png",
+      "filename": "room_dw_castle_rooms_susie.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_west_cliff.png",
+      "filename": "room_dw_castle_west_cliff.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_castle_west_cliff_old.png",
+      "filename": "room_dw_castle_west_cliff_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_baseball.png",
+      "filename": "room_dw_city_baseball.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_berdly.png",
+      "filename": "room_dw_city_berdly.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_big_1.png",
+      "filename": "room_dw_city_big_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_big_1_original.png",
+      "filename": "room_dw_city_big_1_original.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_big_2.png",
+      "filename": "room_dw_city_big_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_big_2_OG.png",
+      "filename": "room_dw_city_big_2_OG.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_big_3.png",
+      "filename": "room_dw_city_big_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_big_3_backup_2exits.png",
+      "filename": "room_dw_city_big_3_backup_2exits.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_big_3_og.png",
+      "filename": "room_dw_city_big_3_og.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_carnival.png",
+      "filename": "room_dw_city_carnival.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_cheese.png",
+      "filename": "room_dw_city_cheese.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_cheesemaze.png",
+      "filename": "room_dw_city_cheesemaze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_dog_traffic.png",
+      "filename": "room_dw_city_dog_traffic.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_entrance.png",
+      "filename": "room_dw_city_entrance.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_hacker.png",
+      "filename": "room_dw_city_hacker.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_intro.png",
+      "filename": "room_dw_city_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_man.png",
+      "filename": "room_dw_city_man.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_mansion_front.png",
+      "filename": "room_dw_city_mansion_front.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_mice.png",
+      "filename": "room_dw_city_mice.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_mice2.png",
+      "filename": "room_dw_city_mice2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_mice2_og.png",
+      "filename": "room_dw_city_mice2_og.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_mice3.png",
+      "filename": "room_dw_city_mice3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_mirrorfriend.png",
+      "filename": "room_dw_city_mirrorfriend.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_monologue.png",
+      "filename": "room_dw_city_monologue.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_monologue_old.png",
+      "filename": "room_dw_city_monologue_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_moss.png",
+      "filename": "room_dw_city_moss.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_noelle_fight_intro.png",
+      "filename": "room_dw_city_noelle_fight_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_poppup.png",
+      "filename": "room_dw_city_poppup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_postbaseball_1.png",
+      "filename": "room_dw_city_postbaseball_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_postbaseball_2.png",
+      "filename": "room_dw_city_postbaseball_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_postbaseball_3.png",
+      "filename": "room_dw_city_postbaseball_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_prototype_01.png",
+      "filename": "room_dw_city_prototype_01.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_prototype_02.png",
+      "filename": "room_dw_city_prototype_02.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_queen_drunk.png",
+      "filename": "room_dw_city_queen_drunk.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_roadblock.png",
+      "filename": "room_dw_city_roadblock.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_savepoint.png",
+      "filename": "room_dw_city_savepoint.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_sidewayscars.png",
+      "filename": "room_dw_city_sidewayscars.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_spamton_alley.png",
+      "filename": "room_dw_city_spamton_alley.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_spamton_house.png",
+      "filename": "room_dw_city_spamton_house.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_spamton_shop_exterior.png",
+      "filename": "room_dw_city_spamton_shop_exterior.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_spamton_shop_interior.png",
+      "filename": "room_dw_city_spamton_shop_interior.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_split.png",
+      "filename": "room_dw_city_split.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_susie_ralsei_fun_1.png",
+      "filename": "room_dw_city_susie_ralsei_fun_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_1.png",
+      "filename": "room_dw_city_traffic_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_2.png",
+      "filename": "room_dw_city_traffic_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_2_old.png",
+      "filename": "room_dw_city_traffic_2_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_3.png",
+      "filename": "room_dw_city_traffic_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_3_2Entrances.png",
+      "filename": "room_dw_city_traffic_3_2Entrances.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_3_backup.png",
+      "filename": "room_dw_city_traffic_3_backup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_4.png",
+      "filename": "room_dw_city_traffic_4.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_traffic_5_old.png",
+      "filename": "room_dw_city_traffic_5_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_city_treasure.png",
+      "filename": "room_dw_city_treasure.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_battle_maze_1.png",
+      "filename": "room_dw_cyber_battle_maze_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_battle_maze_1_Original.png",
+      "filename": "room_dw_cyber_battle_maze_1_Original.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_battle_maze_2.png",
+      "filename": "room_dw_cyber_battle_maze_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_battle_maze_2_old.png",
+      "filename": "room_dw_cyber_battle_maze_2_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_battle_maze_2_toby.png",
+      "filename": "room_dw_cyber_battle_maze_2_toby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_battle_maze_3.png",
+      "filename": "room_dw_cyber_battle_maze_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_escalator_slide.png",
+      "filename": "room_dw_cyber_escalator_slide.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_intro_1.png",
+      "filename": "room_dw_cyber_intro_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_intro_2.png",
+      "filename": "room_dw_cyber_intro_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_intro_connector.png",
+      "filename": "room_dw_cyber_intro_connector.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_keyboardexample.png",
+      "filename": "room_dw_cyber_keyboardexample.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_keyboard_puzzle_1.png",
+      "filename": "room_dw_cyber_keyboard_puzzle_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_keyboard_puzzle_1_old.png",
+      "filename": "room_dw_cyber_keyboard_puzzle_1_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_keyboard_puzzle_2.png",
+      "filename": "room_dw_cyber_keyboard_puzzle_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_keyboard_puzzle_3.png",
+      "filename": "room_dw_cyber_keyboard_puzzle_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_maze_fireworks.png",
+      "filename": "room_dw_cyber_maze_fireworks.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_maze_queenscreen.png",
+      "filename": "room_dw_cyber_maze_queenscreen.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_maze_rhythm.png",
+      "filename": "room_dw_cyber_maze_rhythm.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_maze_tasque.png",
+      "filename": "room_dw_cyber_maze_tasque.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_maze_virokun.png",
+      "filename": "room_dw_cyber_maze_virokun.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_maze_virokun_backuo.png",
+      "filename": "room_dw_cyber_maze_virokun_backuo.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_musical_door.png",
+      "filename": "room_dw_cyber_musical_door.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_musical_shop.png",
+      "filename": "room_dw_cyber_musical_shop.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_music_bullet.png",
+      "filename": "room_dw_cyber_music_bullet.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_music_bullet_original.png",
+      "filename": "room_dw_cyber_music_bullet_original.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_music_fight.png",
+      "filename": "room_dw_cyber_music_fight.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_music_final.png",
+      "filename": "room_dw_cyber_music_final.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_nuberts_treasure.png",
+      "filename": "room_dw_cyber_nuberts_treasure.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_post_music_boss_slide.png",
+      "filename": "room_dw_cyber_post_music_boss_slide.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_queen_boxing.png",
+      "filename": "room_dw_cyber_queen_boxing.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_rhythm_slide.png",
+      "filename": "room_dw_cyber_rhythm_slide.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_rollercoaster.png",
+      "filename": "room_dw_cyber_rollercoaster.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_savepoint.png",
+      "filename": "room_dw_cyber_savepoint.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_savepoint_original.png",
+      "filename": "room_dw_cyber_savepoint_original.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_shaunsmusicalbullettunnel.png",
+      "filename": "room_dw_cyber_shaunsmusicalbullettunnel.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_tasque_battle.png",
+      "filename": "room_dw_cyber_tasque_battle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_tasque_battle_og.png",
+      "filename": "room_dw_cyber_tasque_battle_og.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_teacup_1.png",
+      "filename": "room_dw_cyber_teacup_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_teacup_2.png",
+      "filename": "room_dw_cyber_teacup_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_teacup_final.png",
+      "filename": "room_dw_cyber_teacup_final.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_viromaze2.png",
+      "filename": "room_dw_cyber_viromaze2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_virovirokun_fight.png",
+      "filename": "room_dw_cyber_virovirokun_fight.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_cyber_viro_ring.png",
+      "filename": "room_dw_cyber_viro_ring.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_acid_tunnel.png",
+      "filename": "room_dw_mansion_acid_tunnel.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_acid_tunnel_exit.png",
+      "filename": "room_dw_mansion_acid_tunnel_exit.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_acid_tunnel_loop_rouxls.png",
+      "filename": "room_dw_mansion_acid_tunnel_loop_rouxls.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_acid_tunnel_old.png",
+      "filename": "room_dw_mansion_acid_tunnel_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_acid_tunnel_puzzle_entrance.png",
+      "filename": "room_dw_mansion_acid_tunnel_puzzle_entrance.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_bridges.png",
+      "filename": "room_dw_mansion_bridges.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_bridgesold.png",
+      "filename": "room_dw_mansion_bridgesold.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_bridges_funny.png",
+      "filename": "room_dw_mansion_bridges_funny.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_central.png",
+      "filename": "room_dw_mansion_b_central.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_east.png",
+      "filename": "room_dw_mansion_b_east.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_east_a.png",
+      "filename": "room_dw_mansion_b_east_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_east_b.png",
+      "filename": "room_dw_mansion_b_east_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_east_transformed.png",
+      "filename": "room_dw_mansion_b_east_transformed.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_entrance.png",
+      "filename": "room_dw_mansion_b_entrance.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_stairs.png",
+      "filename": "room_dw_mansion_b_stairs.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_west_1f.png",
+      "filename": "room_dw_mansion_b_west_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_west_1f_a.png",
+      "filename": "room_dw_mansion_b_west_1f_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_west_1f_b.png",
+      "filename": "room_dw_mansion_b_west_1f_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_b_west_2f.png",
+      "filename": "room_dw_mansion_b_west_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_darkbulb_1.png",
+      "filename": "room_dw_mansion_darkbulb_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_darkbulb_2.png",
+      "filename": "room_dw_mansion_darkbulb_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_darkbulb_3.png",
+      "filename": "room_dw_mansion_darkbulb_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_dining3.png",
+      "filename": "room_dw_mansion_dining3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_dininghall.png",
+      "filename": "room_dw_mansion_dininghall.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_dining_a.png",
+      "filename": "room_dw_mansion_dining_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_dining_storage.png",
+      "filename": "room_dw_mansion_dining_storage.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_dining_storage_old.png",
+      "filename": "room_dw_mansion_dining_storage_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_1f_a.png",
+      "filename": "room_dw_mansion_east_1f_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_1f_b.png",
+      "filename": "room_dw_mansion_east_1f_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_1f_c.png",
+      "filename": "room_dw_mansion_east_1f_c.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_1f_d.png",
+      "filename": "room_dw_mansion_east_1f_d.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_1f_e.png",
+      "filename": "room_dw_mansion_east_1f_e.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_1f_secret.png",
+      "filename": "room_dw_mansion_east_1f_secret.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_a.png",
+      "filename": "room_dw_mansion_east_2f_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_c.png",
+      "filename": "room_dw_mansion_east_2f_c.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_c_a.png",
+      "filename": "room_dw_mansion_east_2f_c_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_c_b.png",
+      "filename": "room_dw_mansion_east_2f_c_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_d.png",
+      "filename": "room_dw_mansion_east_2f_d.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_d_backup.png",
+      "filename": "room_dw_mansion_east_2f_d_backup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_shortcut.png",
+      "filename": "room_dw_mansion_east_2f_shortcut.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_teacup.png",
+      "filename": "room_dw_mansion_east_2f_teacup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_transformed_new.png",
+      "filename": "room_dw_mansion_east_2f_transformed_new.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_2f_ufo_old.png",
+      "filename": "room_dw_mansion_east_2f_ufo_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_3f.png",
+      "filename": "room_dw_mansion_east_3f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_3f_projection.png",
+      "filename": "room_dw_mansion_east_3f_projection.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_3f_toilet.png",
+      "filename": "room_dw_mansion_east_3f_toilet.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_4f_a.png",
+      "filename": "room_dw_mansion_east_4f_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_4f_b.png",
+      "filename": "room_dw_mansion_east_4f_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_4f_c.png",
+      "filename": "room_dw_mansion_east_4f_c.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_4f_d.png",
+      "filename": "room_dw_mansion_east_4f_d.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_4f_e.png",
+      "filename": "room_dw_mansion_east_4f_e.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_teacup.png",
+      "filename": "room_dw_mansion_east_teacup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_teacup_2.png",
+      "filename": "room_dw_mansion_east_teacup_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_teacup_3.png",
+      "filename": "room_dw_mansion_east_teacup_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_teacup_4.png",
+      "filename": "room_dw_mansion_east_teacup_4.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_east_teacup_4_old.png",
+      "filename": "room_dw_mansion_east_teacup_4_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_elevator.png",
+      "filename": "room_dw_mansion_elevator.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_entrance.png",
+      "filename": "room_dw_mansion_entrance.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_ferris_wheel.png",
+      "filename": "room_dw_mansion_ferris_wheel.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_ferris_wheel_post.png",
+      "filename": "room_dw_mansion_ferris_wheel_post.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_fire_paintings.png",
+      "filename": "room_dw_mansion_fire_paintings.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_fountain.png",
+      "filename": "room_dw_mansion_fountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_gigaqueen.png",
+      "filename": "room_dw_mansion_gigaqueen.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_hands.png",
+      "filename": "room_dw_mansion_hands.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_kitchen.png",
+      "filename": "room_dw_mansion_kitchen.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_krisroom.png",
+      "filename": "room_dw_mansion_krisroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_lightner_hallway.png",
+      "filename": "room_dw_mansion_lightner_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_mouseLottery.png",
+      "filename": "room_dw_mansion_mouseLottery.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_noelle_room.png",
+      "filename": "room_dw_mansion_noelle_room.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_potBalance.png",
+      "filename": "room_dw_mansion_potBalance.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_prefountain.png",
+      "filename": "room_dw_mansion_prefountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_single_pot.png",
+      "filename": "room_dw_mansion_single_pot.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_sparks.png",
+      "filename": "room_dw_mansion_sparks.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_susieroom.png",
+      "filename": "room_dw_mansion_susieroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_tasquePaintings.png",
+      "filename": "room_dw_mansion_tasquePaintings.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_top.png",
+      "filename": "room_dw_mansion_top.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_top_post.png",
+      "filename": "room_dw_mansion_top_post.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_top_post_old.png",
+      "filename": "room_dw_mansion_top_post_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_traffic.png",
+      "filename": "room_dw_mansion_traffic.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_mansion_traffic_original.png",
+      "filename": "room_dw_mansion_traffic_original.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_ralsei_castle_1f.png",
+      "filename": "room_dw_ralsei_castle_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_ralsei_castle_2f.png",
+      "filename": "room_dw_ralsei_castle_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_dw_ralsei_castle_front.png",
+      "filename": "room_dw_ralsei_castle_front.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_ed.png",
+      "filename": "room_ed.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_empty.png",
+      "filename": "room_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_flowershop_1f.png",
+      "filename": "room_flowershop_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_flowershop_2f.png",
+      "filename": "room_flowershop_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_gameover.png",
+      "filename": "room_gameover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_gif_tester.png",
+      "filename": "room_gif_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_GMS2_test.png",
+      "filename": "room_GMS2_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_gms_debug_failsafe.png",
+      "filename": "room_gms_debug_failsafe.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_graveyard.png",
+      "filename": "room_graveyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_hospital_hallway.png",
+      "filename": "room_hospital_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_hospital_lobby.png",
+      "filename": "room_hospital_lobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_hospital_room2.png",
+      "filename": "room_hospital_room2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_hospital_rudy.png",
+      "filename": "room_hospital_rudy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/ROOM_INITIALIZE.png",
+      "filename": "ROOM_INITIALIZE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_insidecloset.png",
+      "filename": "room_insidecloset.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_intro_ch2.png",
+      "filename": "room_intro_ch2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_krishallway.png",
+      "filename": "room_krishallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_krisroom.png",
+      "filename": "room_krisroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_legend.png",
+      "filename": "room_legend.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_legend_neo.png",
+      "filename": "room_legend_neo.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_library.png",
+      "filename": "room_library.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_lw_computer_lab.png",
+      "filename": "room_lw_computer_lab.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_lw_conbini.png",
+      "filename": "room_lw_conbini.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_lw_icee_pizza.png",
+      "filename": "room_lw_icee_pizza.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_lw_library_upstairs.png",
+      "filename": "room_lw_library_upstairs.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_lw_police.png",
+      "filename": "room_lw_police.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_musical_sync_test.png",
+      "filename": "room_musical_sync_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_schooldoor.png",
+      "filename": "room_schooldoor.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_schoollobby.png",
+      "filename": "room_schoollobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_school_unusedroom.png",
+      "filename": "room_school_unusedroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_shaun_puzzle.png",
+      "filename": "room_shaun_puzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_shop1.png",
+      "filename": "room_shop1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_shop_ch2_music.png",
+      "filename": "room_shop_ch2_music.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_shop_ch2_spamton.png",
+      "filename": "room_shop_ch2_spamton.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_shop_ch2_swatch.png",
+      "filename": "room_shop_ch2_swatch.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_sound_tester.png",
+      "filename": "room_sound_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_sprite_tester.png",
+      "filename": "room_sprite_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_teacup_demoauto.png",
+      "filename": "room_teacup_demoauto.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_teacup_demobullets.png",
+      "filename": "room_teacup_demobullets.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_title_placeholder.png",
+      "filename": "room_title_placeholder.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_torbathroom.png",
+      "filename": "room_torbathroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_torhouse.png",
+      "filename": "room_torhouse.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_torielclass.png",
+      "filename": "room_torielclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_torroom.png",
+      "filename": "room_torroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_townhall.png",
+      "filename": "room_townhall.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_apartments.png",
+      "filename": "room_town_apartments.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_church.png",
+      "filename": "room_town_church.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_krisyard.png",
+      "filename": "room_town_krisyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_mid.png",
+      "filename": "room_town_mid.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_north.png",
+      "filename": "room_town_north.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_northwest.png",
+      "filename": "room_town_northwest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_school.png",
+      "filename": "room_town_school.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_shelter.png",
+      "filename": "room_town_shelter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_town_south.png",
+      "filename": "room_town_south.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter2/room_transformation_sequence.png",
+      "filename": "room_transformation_sequence.png"
+    }
+  ],
+  "chapter3": [
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/PLACE_CONTACT.png",
+      "filename": "PLACE_CONTACT.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/PLACE_DOG.png",
+      "filename": "PLACE_DOG.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/PLACE_DOGCHECK2.png",
+      "filename": "PLACE_DOGCHECK2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/PLACE_FAILURE.png",
+      "filename": "PLACE_FAILURE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/PLACE_LOGO.png",
+      "filename": "PLACE_LOGO.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/PLACE_MENU.png",
+      "filename": "PLACE_MENU.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/PLACE_NAMING_JIKKEN.png",
+      "filename": "PLACE_NAMING_JIKKEN.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_adventureboardtest.png",
+      "filename": "room_adventureboardtest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_alphysalley.png",
+      "filename": "room_alphysalley.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_alphysclass.png",
+      "filename": "room_alphysclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_battletest.png",
+      "filename": "room_battletest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_beach.png",
+      "filename": "room_beach.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board1_oldtest.png",
+      "filename": "room_board1_oldtest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_boardtest.png",
+      "filename": "room_boardtest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_boardtest_old.png",
+      "filename": "room_boardtest_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_1.png",
+      "filename": "room_board_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_1_sword.png",
+      "filename": "room_board_1_sword.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_1_sword_trees.png",
+      "filename": "room_board_1_sword_trees.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_2.png",
+      "filename": "room_board_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_2_sword.png",
+      "filename": "room_board_2_sword.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_3.png",
+      "filename": "room_board_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_3b.png",
+      "filename": "room_board_3b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_3_sword.png",
+      "filename": "room_board_3_sword.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_boattest.png",
+      "filename": "room_board_boattest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_designTest.png",
+      "filename": "room_board_designTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_dungeon_2.png",
+      "filename": "room_board_dungeon_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_dungeon_3.png",
+      "filename": "room_board_dungeon_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_empty.png",
+      "filename": "room_board_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_gsa02_b0.png",
+      "filename": "room_board_gsa02_b0.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_intro.png",
+      "filename": "room_board_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_postshadowmantle.png",
+      "filename": "room_board_postshadowmantle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_postshadowmantle_test.png",
+      "filename": "room_board_postshadowmantle_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_prepostshadowmantle.png",
+      "filename": "room_board_prepostshadowmantle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_preshadowmantle.png",
+      "filename": "room_board_preshadowmantle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_preshadowmantle_repeat.png",
+      "filename": "room_board_preshadowmantle_repeat.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_sword_intro.png",
+      "filename": "room_board_sword_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_board_tests.png",
+      "filename": "room_board_tests.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_bullettest.png",
+      "filename": "room_bullettest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_bullettest_new.png",
+      "filename": "room_bullettest_new.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_castle_tutorial.png",
+      "filename": "room_castle_tutorial.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_cc_clover.png",
+      "filename": "room_cc_clover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_cc_fountain.png",
+      "filename": "room_cc_fountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_cc_lancer.png",
+      "filename": "room_cc_lancer.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_ch3_gacharoom_unknown.png",
+      "filename": "room_ch3_gacharoom_unknown.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_ch3_gameshowroom.png",
+      "filename": "room_ch3_gameshowroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_ch3_gameshowroom_tennatest.png",
+      "filename": "room_ch3_gameshowroom_tennatest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_chapter_continue.png",
+      "filename": "room_chapter_continue.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_CHEFS.png",
+      "filename": "room_CHEFS.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_cutscene_tester.png",
+      "filename": "room_cutscene_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_cutscene_tester_b.png",
+      "filename": "room_cutscene_tester_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_DARKbase_GMS2.png",
+      "filename": "room_DARKbase_GMS2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_DARKempty.png",
+      "filename": "room_DARKempty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_battle.png",
+      "filename": "room_debug_battle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_battleBalloon.png",
+      "filename": "room_debug_battleBalloon.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_choicer_dark.png",
+      "filename": "room_debug_choicer_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_choicer_light.png",
+      "filename": "room_debug_choicer_light.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_color.png",
+      "filename": "room_debug_color.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_loc.png",
+      "filename": "room_debug_loc.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_smallface.png",
+      "filename": "room_debug_smallface.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_smallface_dark.png",
+      "filename": "room_debug_smallface_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_debug_tennatexttester.png",
+      "filename": "room_debug_tennatexttester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_diner.png",
+      "filename": "room_diner.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bstest.png",
+      "filename": "room_dw_b3bstest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bstest_big.png",
+      "filename": "room_dw_b3bstest_big.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_bibliox.png",
+      "filename": "room_dw_b3bs_bibliox.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_camerareminder.png",
+      "filename": "room_dw_b3bs_camerareminder.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_cheaterpippins.png",
+      "filename": "room_dw_b3bs_cheaterpippins.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_cooltrashy.png",
+      "filename": "room_dw_b3bs_cooltrashy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_extrapuzzle.png",
+      "filename": "room_dw_b3bs_extrapuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_idcardpuzzle.png",
+      "filename": "room_dw_b3bs_idcardpuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_interstitial.png",
+      "filename": "room_dw_b3bs_interstitial.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_intro.png",
+      "filename": "room_dw_b3bs_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_jail1.png",
+      "filename": "room_dw_b3bs_jail1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_jail2.png",
+      "filename": "room_dw_b3bs_jail2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_lancerget.png",
+      "filename": "room_dw_b3bs_lancerget.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_mysterypuzzle.png",
+      "filename": "room_dw_b3bs_mysterypuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_rabbick_a.png",
+      "filename": "room_dw_b3bs_rabbick_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_rabbick_b.png",
+      "filename": "room_dw_b3bs_rabbick_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_rouxls_boss.png",
+      "filename": "room_dw_b3bs_rouxls_boss.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_rouxls_lanina.png",
+      "filename": "room_dw_b3bs_rouxls_lanina.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_sadshadowguys.png",
+      "filename": "room_dw_b3bs_sadshadowguys.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_shop.png",
+      "filename": "room_dw_b3bs_shop.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_template.png",
+      "filename": "room_dw_b3bs_template.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_watercooler.png",
+      "filename": "room_dw_b3bs_watercooler.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_zapper_a.png",
+      "filename": "room_dw_b3bs_zapper_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_zapper_a_old.png",
+      "filename": "room_dw_b3bs_zapper_a_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_zapper_b.png",
+      "filename": "room_dw_b3bs_zapper_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_zapper_c.png",
+      "filename": "room_dw_b3bs_zapper_c.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_b3bs_zapper_d.png",
+      "filename": "room_dw_b3bs_zapper_d.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_backstage.png",
+      "filename": "room_dw_backstage.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_area_1.png",
+      "filename": "room_dw_castle_area_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_cafe.png",
+      "filename": "room_dw_castle_cafe.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_dojo.png",
+      "filename": "room_dw_castle_dojo.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_dungeon.png",
+      "filename": "room_dw_castle_dungeon.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_east_door.png",
+      "filename": "room_dw_castle_east_door.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_restaurant.png",
+      "filename": "room_dw_castle_restaurant.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_rooms_kris.png",
+      "filename": "room_dw_castle_rooms_kris.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_rooms_susie.png",
+      "filename": "room_dw_castle_rooms_susie.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_town.png",
+      "filename": "room_dw_castle_town.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_castle_west_cliff.png",
+      "filename": "room_dw_castle_west_cliff.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ch3_man.png",
+      "filename": "room_dw_ch3_man.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_changing_room.png",
+      "filename": "room_dw_changing_room.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_channelchange_test.png",
+      "filename": "room_dw_channelchange_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_chef.png",
+      "filename": "room_dw_chef.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_chef_empty.png",
+      "filename": "room_dw_chef_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_console_room.png",
+      "filename": "room_dw_console_room.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_overworld_01.png",
+      "filename": "room_dw_couch_overworld_01.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_overworld_02.png",
+      "filename": "room_dw_couch_overworld_02.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_overworld_03.png",
+      "filename": "room_dw_couch_overworld_03.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_overworld_04.png",
+      "filename": "room_dw_couch_overworld_04.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_overworld_05.png",
+      "filename": "room_dw_couch_overworld_05.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_overworld_intro.png",
+      "filename": "room_dw_couch_overworld_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_overworld_intro_left.png",
+      "filename": "room_dw_couch_overworld_intro_left.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_points.png",
+      "filename": "room_dw_couch_points.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_couch_video.png",
+      "filename": "room_dw_couch_video.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_green_room.png",
+      "filename": "room_dw_green_room.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_inbetween.png",
+      "filename": "room_dw_inbetween.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_inbetweenhall.png",
+      "filename": "room_dw_inbetweenhall.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_nondescript_classroom.png",
+      "filename": "room_dw_nondescript_classroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_nondescript_field.png",
+      "filename": "room_dw_nondescript_field.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_nondescript_hallway.png",
+      "filename": "room_dw_nondescript_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_nondescript_room.png",
+      "filename": "room_dw_nondescript_room.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_puzzlecloset_0.png",
+      "filename": "room_dw_puzzlecloset_0.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_puzzlecloset_1.png",
+      "filename": "room_dw_puzzlecloset_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_puzzlecloset_1a.png",
+      "filename": "room_dw_puzzlecloset_1a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_puzzlecloset_2.png",
+      "filename": "room_dw_puzzlecloset_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_puzzlecloset_3.png",
+      "filename": "room_dw_puzzlecloset_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ralsei_castle_1f.png",
+      "filename": "room_dw_ralsei_castle_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ralsei_castle_2f.png",
+      "filename": "room_dw_ralsei_castle_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ralsei_castle_front.png",
+      "filename": "room_dw_ralsei_castle_front.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ranking_a.png",
+      "filename": "room_dw_ranking_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ranking_b.png",
+      "filename": "room_dw_ranking_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ranking_c.png",
+      "filename": "room_dw_ranking_c.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ranking_hub.png",
+      "filename": "room_dw_ranking_hub.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ranking_t.png",
+      "filename": "room_dw_ranking_t.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ranking_z.png",
+      "filename": "room_dw_ranking_z.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_ranking_z_hallway.png",
+      "filename": "room_dw_ranking_z_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_rhythm.png",
+      "filename": "room_dw_rhythm.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_rhythm_countdown.png",
+      "filename": "room_dw_rhythm_countdown.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_rhythm_empty.png",
+      "filename": "room_dw_rhythm_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_snow_zone.png",
+      "filename": "room_dw_snow_zone.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_snow_zone_battle.png",
+      "filename": "room_dw_snow_zone_battle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_snow_zone_east_door.png",
+      "filename": "room_dw_snow_zone_east_door.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_susiezilla.png",
+      "filename": "room_dw_susiezilla.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_susiezilla_empty.png",
+      "filename": "room_dw_susiezilla_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_audiencepits.png",
+      "filename": "room_dw_teevie_audiencepits.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_bonus_zone.png",
+      "filename": "room_dw_teevie_bonus_zone.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_chef.png",
+      "filename": "room_dw_teevie_chef.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_cowboy_zone_01_after.png",
+      "filename": "room_dw_teevie_cowboy_zone_01_after.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_cowboy_zone_01_intro.png",
+      "filename": "room_dw_teevie_cowboy_zone_01_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_cowboy_zone_02_after.png",
+      "filename": "room_dw_teevie_cowboy_zone_02_after.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_cowboy_zone_02_intro.png",
+      "filename": "room_dw_teevie_cowboy_zone_02_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_cutscene_final.png",
+      "filename": "room_dw_teevie_cutscene_final.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_dust.png",
+      "filename": "room_dw_teevie_dust.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_dust_south.png",
+      "filename": "room_dw_teevie_dust_south.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_failure_cage.png",
+      "filename": "room_dw_teevie_failure_cage.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_intro.png",
+      "filename": "room_dw_teevie_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_large_01.png",
+      "filename": "room_dw_teevie_large_01.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_large_02.png",
+      "filename": "room_dw_teevie_large_02.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_lightmaze.png",
+      "filename": "room_dw_teevie_lightmaze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_maze.png",
+      "filename": "room_dw_teevie_maze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_maze_chef.png",
+      "filename": "room_dw_teevie_maze_chef.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_maze_final.png",
+      "filename": "room_dw_teevie_maze_final.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_maze_points.png",
+      "filename": "room_dw_teevie_maze_points.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_maze_quiz.png",
+      "filename": "room_dw_teevie_maze_quiz.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_preview.png",
+      "filename": "room_dw_teevie_preview.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_preview_south.png",
+      "filename": "room_dw_teevie_preview_south.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_rhythm.png",
+      "filename": "room_dw_teevie_rhythm.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_ribbick.png",
+      "filename": "room_dw_teevie_ribbick.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_ribbicks_a.png",
+      "filename": "room_dw_teevie_ribbicks_a.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_ribbicks_b.png",
+      "filename": "room_dw_teevie_ribbicks_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_sams.png",
+      "filename": "room_dw_teevie_sams.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_shadow_guys.png",
+      "filename": "room_dw_teevie_shadow_guys.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_shuttahmaze.png",
+      "filename": "room_dw_teevie_shuttahmaze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_stealth.png",
+      "filename": "room_dw_teevie_stealth.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_stealth_c.png",
+      "filename": "room_dw_teevie_stealth_c.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_stealth_d.png",
+      "filename": "room_dw_teevie_stealth_d.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_susiebridge.png",
+      "filename": "room_dw_teevie_susiebridge.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_susiezilla.png",
+      "filename": "room_dw_teevie_susiezilla.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_teevie_watercooler.png",
+      "filename": "room_dw_teevie_watercooler.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_tv_closet.png",
+      "filename": "room_dw_tv_closet.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_tv_curtain.png",
+      "filename": "room_dw_tv_curtain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_dw_tv_cutscene1g.png",
+      "filename": "room_dw_tv_cutscene1g.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_ed.png",
+      "filename": "room_ed.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_empty.png",
+      "filename": "room_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_flowershop_1f.png",
+      "filename": "room_flowershop_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_flowershop_2f.png",
+      "filename": "room_flowershop_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_gameover.png",
+      "filename": "room_gameover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_genanimtest.png",
+      "filename": "room_genanimtest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_gif_tester.png",
+      "filename": "room_gif_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_GMS2_test.png",
+      "filename": "room_GMS2_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_gms_debug_failsafe.png",
+      "filename": "room_gms_debug_failsafe.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_graveyard.png",
+      "filename": "room_graveyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_hospital_hallway.png",
+      "filename": "room_hospital_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_hospital_lobby.png",
+      "filename": "room_hospital_lobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_hospital_room2.png",
+      "filename": "room_hospital_room2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_hospital_rudy.png",
+      "filename": "room_hospital_rudy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/ROOM_INITIALIZE.png",
+      "filename": "ROOM_INITIALIZE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_insidecloset.png",
+      "filename": "room_insidecloset.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_intro.png",
+      "filename": "room_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_krishallway.png",
+      "filename": "room_krishallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_krisroom.png",
+      "filename": "room_krisroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_legend.png",
+      "filename": "room_legend.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_legend_neo.png",
+      "filename": "room_legend_neo.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_lerptest.png",
+      "filename": "room_lerptest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_library.png",
+      "filename": "room_library.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_lw_computer_lab.png",
+      "filename": "room_lw_computer_lab.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_lw_conbini.png",
+      "filename": "room_lw_conbini.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_lw_icee_pizza.png",
+      "filename": "room_lw_icee_pizza.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_lw_library_upstairs.png",
+      "filename": "room_lw_library_upstairs.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_lw_police.png",
+      "filename": "room_lw_police.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_overworldBulletEnemyTest.png",
+      "filename": "room_overworldBulletEnemyTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_perspective_testing.png",
+      "filename": "room_perspective_testing.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_rhythmgame_editor.png",
+      "filename": "room_rhythmgame_editor.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_rhythmgame_tenna_test.png",
+      "filename": "room_rhythmgame_tenna_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_schooldoor.png",
+      "filename": "room_schooldoor.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_schoollobby.png",
+      "filename": "room_schoollobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_school_unusedroom.png",
+      "filename": "room_school_unusedroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_shadowmantle.png",
+      "filename": "room_shadowmantle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_shadowmantle_movementExample.png",
+      "filename": "room_shadowmantle_movementExample.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_shootout.png",
+      "filename": "room_shootout.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_shop1.png",
+      "filename": "room_shop1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_shop_music.png",
+      "filename": "room_shop_music.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_sound_tester.png",
+      "filename": "room_sound_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_sprite_tester.png",
+      "filename": "room_sprite_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_susiezilla.png",
+      "filename": "room_susiezilla.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_susiezilla_singleScreenMockup.png",
+      "filename": "room_susiezilla_singleScreenMockup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_tennaAnimTest.png",
+      "filename": "room_tennaAnimTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_tennaCutsceneTest.png",
+      "filename": "room_tennaCutsceneTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_title_placeholder.png",
+      "filename": "room_title_placeholder.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_torbathroom.png",
+      "filename": "room_torbathroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_torhouse.png",
+      "filename": "room_torhouse.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_torhouse_sepia.png",
+      "filename": "room_torhouse_sepia.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_torielclass.png",
+      "filename": "room_torielclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_torroom.png",
+      "filename": "room_torroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_townhall.png",
+      "filename": "room_townhall.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_apartments.png",
+      "filename": "room_town_apartments.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_church.png",
+      "filename": "room_town_church.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_krisyard.png",
+      "filename": "room_town_krisyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_krisyard_dark.png",
+      "filename": "room_town_krisyard_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_mid.png",
+      "filename": "room_town_mid.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_north.png",
+      "filename": "room_town_north.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_northwest.png",
+      "filename": "room_town_northwest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_school.png",
+      "filename": "room_town_school.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_shelter.png",
+      "filename": "room_town_shelter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter3/room_town_south.png",
+      "filename": "room_town_south.png"
+    }
+  ],
+  "chapter4": [
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/PLACE_CONTACT.png",
+      "filename": "PLACE_CONTACT.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/PLACE_DOG.png",
+      "filename": "PLACE_DOG.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/PLACE_DOGCHECK2.png",
+      "filename": "PLACE_DOGCHECK2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/PLACE_FAILURE.png",
+      "filename": "PLACE_FAILURE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/PLACE_LOGO.png",
+      "filename": "PLACE_LOGO.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/PLACE_MENU.png",
+      "filename": "PLACE_MENU.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/PLACE_NAMING_JIKKEN.png",
+      "filename": "PLACE_NAMING_JIKKEN.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_alphysalley.png",
+      "filename": "room_alphysalley.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_alphysclass.png",
+      "filename": "room_alphysclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_battletest.png",
+      "filename": "room_battletest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_beach.png",
+      "filename": "room_beach.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_bullettest.png",
+      "filename": "room_bullettest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_bullettest_new.png",
+      "filename": "room_bullettest_new.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_castle_tutorial.png",
+      "filename": "room_castle_tutorial.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_cc_clover.png",
+      "filename": "room_cc_clover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_cc_fountain.png",
+      "filename": "room_cc_fountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_cc_lancer.png",
+      "filename": "room_cc_lancer.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_cutscene_tester.png",
+      "filename": "room_cutscene_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_cutscene_tester_b.png",
+      "filename": "room_cutscene_tester_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_DARKbase_GMS2.png",
+      "filename": "room_DARKbase_GMS2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_DARKempty.png",
+      "filename": "room_DARKempty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_darkness_example.png",
+      "filename": "room_darkness_example.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_darkness_example_2.png",
+      "filename": "room_darkness_example_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dark_twostoryTest.png",
+      "filename": "room_dark_twostoryTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_battle.png",
+      "filename": "room_debug_battle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_battleBalloon.png",
+      "filename": "room_debug_battleBalloon.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_choicer_dark.png",
+      "filename": "room_debug_choicer_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_choicer_light.png",
+      "filename": "room_debug_choicer_light.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_color.png",
+      "filename": "room_debug_color.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_layeredLevelTest.png",
+      "filename": "room_debug_layeredLevelTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_loc.png",
+      "filename": "room_debug_loc.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_pianotest.png",
+      "filename": "room_debug_pianotest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_smallface.png",
+      "filename": "room_debug_smallface.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_smallface_dark.png",
+      "filename": "room_debug_smallface_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_debug_windowEffect.png",
+      "filename": "room_debug_windowEffect.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_diner.png",
+      "filename": "room_diner.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_3d_tower_test.png",
+      "filename": "room_dw_3d_tower_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_area_1.png",
+      "filename": "room_dw_castle_area_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_cafe.png",
+      "filename": "room_dw_castle_cafe.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_dojo.png",
+      "filename": "room_dw_castle_dojo.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_dungeon.png",
+      "filename": "room_dw_castle_dungeon.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_east_door.png",
+      "filename": "room_dw_castle_east_door.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_restaurant.png",
+      "filename": "room_dw_castle_restaurant.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_rooms_kris.png",
+      "filename": "room_dw_castle_rooms_kris.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_rooms_kris_susie.png",
+      "filename": "room_dw_castle_rooms_kris_susie.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_rooms_queen.png",
+      "filename": "room_dw_castle_rooms_queen.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_rooms_ralsei.png",
+      "filename": "room_dw_castle_rooms_ralsei.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_rooms_susie.png",
+      "filename": "room_dw_castle_rooms_susie.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_rooms_tenna.png",
+      "filename": "room_dw_castle_rooms_tenna.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_town.png",
+      "filename": "room_dw_castle_town.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_tv.png",
+      "filename": "room_dw_castle_tv.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_tv_rhythm.png",
+      "filename": "room_dw_castle_tv_rhythm.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_tv_zone_1.png",
+      "filename": "room_dw_castle_tv_zone_1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_tv_zone_2.png",
+      "filename": "room_dw_castle_tv_zone_2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_tv_zone_3.png",
+      "filename": "room_dw_castle_tv_zone_3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_tv_zone_battle.png",
+      "filename": "room_dw_castle_tv_zone_battle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_tv_zone_minigame.png",
+      "filename": "room_dw_castle_tv_zone_minigame.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_castle_west_cliff.png",
+      "filename": "room_dw_castle_west_cliff.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_channelchange_test.png",
+      "filename": "room_dw_channelchange_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_bellroom.png",
+      "filename": "room_dw_churchb_bellroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_bookshelf.png",
+      "filename": "room_dw_churchb_bookshelf.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_darkclimb.png",
+      "filename": "room_dw_churchb_darkclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_darkclimb_scene.png",
+      "filename": "room_dw_churchb_darkclimb_scene.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_escherstaircase.png",
+      "filename": "room_dw_churchb_escherstaircase.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_extinguisher.png",
+      "filename": "room_dw_churchb_extinguisher.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_fireplace.png",
+      "filename": "room_dw_churchb_fireplace.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_fountain.png",
+      "filename": "room_dw_churchb_fountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_gallery.png",
+      "filename": "room_dw_churchb_gallery.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_gersonchase.png",
+      "filename": "room_dw_churchb_gersonchase.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_gersonstudy.png",
+      "filename": "room_dw_churchb_gersonstudy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_library.png",
+      "filename": "room_dw_churchb_library.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_libraryconnector.png",
+      "filename": "room_dw_churchb_libraryconnector.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_library_alternate.png",
+      "filename": "room_dw_churchb_library_alternate.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_man.png",
+      "filename": "room_dw_churchb_man.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_moneyfountain.png",
+      "filename": "room_dw_churchb_moneyfountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_nongerson.png",
+      "filename": "room_dw_churchb_nongerson.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_nongerson_post.png",
+      "filename": "room_dw_churchb_nongerson_post.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_prophecyencounter.png",
+      "filename": "room_dw_churchb_prophecyencounter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_prophecymaze.png",
+      "filename": "room_dw_churchb_prophecymaze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_prophecymaze_old.png",
+      "filename": "room_dw_churchb_prophecymaze_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_ripple1.png",
+      "filename": "room_dw_churchb_ripple1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_ripplepost.png",
+      "filename": "room_dw_churchb_ripplepost.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_rotatingtower.png",
+      "filename": "room_dw_churchb_rotatingtower.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_rotatingtower2.png",
+      "filename": "room_dw_churchb_rotatingtower2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_rotatingtower_old.png",
+      "filename": "room_dw_churchb_rotatingtower_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_rotatingtower_tiled.png",
+      "filename": "room_dw_churchb_rotatingtower_tiled.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_savepoint.png",
+      "filename": "room_dw_churchb_savepoint.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_staircaseintro.png",
+      "filename": "room_dw_churchb_staircaseintro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_windows.png",
+      "filename": "room_dw_churchb_windows.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchb_worshiproom.png",
+      "filename": "room_dw_churchb_worshiproom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_angelprophecy.png",
+      "filename": "room_dw_churchc_angelprophecy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_angelprophecy_encounter.png",
+      "filename": "room_dw_churchc_angelprophecy_encounter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_darkswords.png",
+      "filename": "room_dw_churchc_darkswords.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_dodge.png",
+      "filename": "room_dw_churchc_dodge.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_encounter1.png",
+      "filename": "room_dw_churchc_encounter1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_encounter2.png",
+      "filename": "room_dw_churchc_encounter2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_finalclimb.png",
+      "filename": "room_dw_churchc_finalclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_final_prophecy.png",
+      "filename": "room_dw_churchc_final_prophecy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_insidetitan.png",
+      "filename": "room_dw_churchc_insidetitan.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_prepretitan.png",
+      "filename": "room_dw_churchc_prepretitan.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_pretitan.png",
+      "filename": "room_dw_churchc_pretitan.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_prophecies.png",
+      "filename": "room_dw_churchc_prophecies.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_prophecies_backup.png",
+      "filename": "room_dw_churchc_prophecies_backup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_ripplesneak_poc.png",
+      "filename": "room_dw_churchc_ripplesneak_poc.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_savepoint.png",
+      "filename": "room_dw_churchc_savepoint.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_slidingpiano.png",
+      "filename": "room_dw_churchc_slidingpiano.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_superprophecies.png",
+      "filename": "room_dw_churchc_superprophecies.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb1.png",
+      "filename": "room_dw_churchc_titanclimb1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb1_old.png",
+      "filename": "room_dw_churchc_titanclimb1_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb1_post.png",
+      "filename": "room_dw_churchc_titanclimb1_post.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb1_tiled.png",
+      "filename": "room_dw_churchc_titanclimb1_tiled.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb2.png",
+      "filename": "room_dw_churchc_titanclimb2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb2_old.png",
+      "filename": "room_dw_churchc_titanclimb2_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb2_old2.png",
+      "filename": "room_dw_churchc_titanclimb2_old2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb2_post.png",
+      "filename": "room_dw_churchc_titanclimb2_post.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titanclimb2_tiled.png",
+      "filename": "room_dw_churchc_titanclimb2_tiled.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_titandefeated.png",
+      "filename": "room_dw_churchc_titandefeated.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_churchc_treasurechest.png",
+      "filename": "room_dw_churchc_treasurechest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_arena.png",
+      "filename": "room_dw_church_arena.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellclimb.png",
+      "filename": "room_dw_church_bellclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellhall_bookroom.png",
+      "filename": "room_dw_church_bellhall_bookroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellhall_central.png",
+      "filename": "room_dw_church_bellhall_central.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellhall_curtain.png",
+      "filename": "room_dw_church_bellhall_curtain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellhall_east.png",
+      "filename": "room_dw_church_bellhall_east.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellhall_west.png",
+      "filename": "room_dw_church_bellhall_west.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellplay.png",
+      "filename": "room_dw_church_bellplay.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bellsareawest.png",
+      "filename": "room_dw_church_bellsareawest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_biblioxencounter.png",
+      "filename": "room_dw_church_biblioxencounter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bookcase.png",
+      "filename": "room_dw_church_bookcase.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bookenemywest.png",
+      "filename": "room_dw_church_bookenemywest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bookshelfpuzzle.png",
+      "filename": "room_dw_church_bookshelfpuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bookshelfpuzzle1.png",
+      "filename": "room_dw_church_bookshelfpuzzle1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bookshelfpuzzle2.png",
+      "filename": "room_dw_church_bookshelfpuzzle2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_bookshelfpuzzle_rev.png",
+      "filename": "room_dw_church_bookshelfpuzzle_rev.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_b_intro.png",
+      "filename": "room_dw_church_b_intro.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_candlelighting.png",
+      "filename": "room_dw_church_candlelighting.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_candlesroom1.png",
+      "filename": "room_dw_church_candlesroom1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_chase_old.png",
+      "filename": "room_dw_church_chase_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_claw.png",
+      "filename": "room_dw_church_claw.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_climbtut.png",
+      "filename": "room_dw_church_climbtut.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_crumbletower.png",
+      "filename": "room_dw_church_crumbletower.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_darkbell_old.png",
+      "filename": "room_dw_church_darkbell_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_darkclimb.png",
+      "filename": "room_dw_church_darkclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_darkmaze.png",
+      "filename": "room_dw_church_darkmaze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_darkroom1_old.png",
+      "filename": "room_dw_church_darkroom1_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_darkroom_old.png",
+      "filename": "room_dw_church_darkroom_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_dark_fire_puzzle.png",
+      "filename": "room_dw_church_dark_fire_puzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_dogclimb.png",
+      "filename": "room_dw_church_dogclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_fastwater.png",
+      "filename": "room_dw_church_fastwater.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_fountain.png",
+      "filename": "room_dw_church_fountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_fountainconnection.png",
+      "filename": "room_dw_church_fountainconnection.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_gersonstudy.png",
+      "filename": "room_dw_church_gersonstudy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_glass.png",
+      "filename": "room_dw_church_glass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_guei.png",
+      "filename": "room_dw_church_guei.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_gueitest.png",
+      "filename": "room_dw_church_gueitest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_holywatercooler.png",
+      "filename": "room_dw_church_holywatercooler.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_intro1.png",
+      "filename": "room_dw_church_intro1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_intro3.png",
+      "filename": "room_dw_church_intro3.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_intropiano.png",
+      "filename": "room_dw_church_intropiano.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_intro_gerson.png",
+      "filename": "room_dw_church_intro_gerson.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_intro_guei.png",
+      "filename": "room_dw_church_intro_guei.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_jackenstein.png",
+      "filename": "room_dw_church_jackenstein.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_knightclimb.png",
+      "filename": "room_dw_church_knightclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_knightclimb_post.png",
+      "filename": "room_dw_church_knightclimb_post.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_lantern1_old.png",
+      "filename": "room_dw_church_lantern1_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_lantern1_old_old.png",
+      "filename": "room_dw_church_lantern1_old_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_lantern2.png",
+      "filename": "room_dw_church_lantern2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_lantern_hallway.png",
+      "filename": "room_dw_church_lantern_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_lantern_hallway_old.png",
+      "filename": "room_dw_church_lantern_hallway_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_librarybookenemy.png",
+      "filename": "room_dw_church_librarybookenemy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_minorlegend.png",
+      "filename": "room_dw_church_minorlegend.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_mizzleencounter.png",
+      "filename": "room_dw_church_mizzleencounter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_moneyfountain.png",
+      "filename": "room_dw_church_moneyfountain.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_northprophecies.png",
+      "filename": "room_dw_church_northprophecies.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_npcroom_pools1.png",
+      "filename": "room_dw_church_npcroom_pools1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_npcroom_shelfclimb.png",
+      "filename": "room_dw_church_npcroom_shelfclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_nwconnect.png",
+      "filename": "room_dw_church_nwconnect.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_offering.png",
+      "filename": "room_dw_church_offering.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_organpuzzle.png",
+      "filename": "room_dw_church_organpuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_pianopiece_left.png",
+      "filename": "room_dw_church_pianopiece_left.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_pianopiece_left_b.png",
+      "filename": "room_dw_church_pianopiece_left_b.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_pianopiece_right.png",
+      "filename": "room_dw_church_pianopiece_right.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_pianopiece_rightprophecy.png",
+      "filename": "room_dw_church_pianopiece_rightprophecy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_pianopuzzle.png",
+      "filename": "room_dw_church_pianopuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_poolsroom1.png",
+      "filename": "room_dw_church_poolsroom1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_poolsroom1_east.png",
+      "filename": "room_dw_church_poolsroom1_east.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_poolsroom2.png",
+      "filename": "room_dw_church_poolsroom2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_poolsroom2south.png",
+      "filename": "room_dw_church_poolsroom2south.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_quicktest.png",
+      "filename": "room_dw_church_quicktest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_rightconnect.png",
+      "filename": "room_dw_church_rightconnect.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_ripplepuzzle.png",
+      "filename": "room_dw_church_ripplepuzzle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_ripplepuzzle_postgers.png",
+      "filename": "room_dw_church_ripplepuzzle_postgers.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_rippletest.png",
+      "filename": "room_dw_church_rippletest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_rippleworship.png",
+      "filename": "room_dw_church_rippleworship.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_ripseq1.png",
+      "filename": "room_dw_church_ripseq1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_ripseq2.png",
+      "filename": "room_dw_church_ripseq2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_savepoint.png",
+      "filename": "room_dw_church_savepoint.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_secretpiano.png",
+      "filename": "room_dw_church_secretpiano.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_shadowgerson.png",
+      "filename": "room_dw_church_shadowgerson.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_shelfclimb1.png",
+      "filename": "room_dw_church_shelfclimb1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_shelfclimb2.png",
+      "filename": "room_dw_church_shelfclimb2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_shiftclimb.png",
+      "filename": "room_dw_church_shiftclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_sideclimb.png",
+      "filename": "room_dw_church_sideclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_slidingbookshelf.png",
+      "filename": "room_dw_church_slidingbookshelf.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_smallbells.png",
+      "filename": "room_dw_church_smallbells.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_solowaterfall.png",
+      "filename": "room_dw_church_solowaterfall.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_stainedglasspreview.png",
+      "filename": "room_dw_church_stainedglasspreview.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_staircase.png",
+      "filename": "room_dw_church_staircase.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_stairspreview.png",
+      "filename": "room_dw_church_stairspreview.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_stairs_stainedglass.png",
+      "filename": "room_dw_church_stairs_stainedglass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_stairs_topleft.png",
+      "filename": "room_dw_church_stairs_topleft.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_stairs_topright.png",
+      "filename": "room_dw_church_stairs_topright.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_stairs_west_bell.png",
+      "filename": "room_dw_church_stairs_west_bell.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_statueclimb.png",
+      "filename": "room_dw_church_statueclimb.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_statueclimb_npcroom.png",
+      "filename": "room_dw_church_statueclimb_npcroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_statueroom.png",
+      "filename": "room_dw_church_statueroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_statueroom_old.png",
+      "filename": "room_dw_church_statueroom_old.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_swingingbell.png",
+      "filename": "room_dw_church_swingingbell.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_tallbookcases.png",
+      "filename": "room_dw_church_tallbookcases.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_tallbookcases_backup.png",
+      "filename": "room_dw_church_tallbookcases_backup.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_tower1.png",
+      "filename": "room_dw_church_tower1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_trueclimbadventure.png",
+      "filename": "room_dw_church_trueclimbadventure.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_turtles.png",
+      "filename": "room_dw_church_turtles.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_waterfallroom.png",
+      "filename": "room_dw_church_waterfallroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_waterfalltearoom.png",
+      "filename": "room_dw_church_waterfalltearoom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_church_worshiproom.png",
+      "filename": "room_dw_church_worshiproom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_ralsei_castle_1f.png",
+      "filename": "room_dw_ralsei_castle_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_ralsei_castle_2f.png",
+      "filename": "room_dw_ralsei_castle_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_ralsei_castle_3f.png",
+      "filename": "room_dw_ralsei_castle_3f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_ralsei_castle_front.png",
+      "filename": "room_dw_ralsei_castle_front.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_rhythm.png",
+      "filename": "room_dw_rhythm.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_rhythm_countdown.png",
+      "filename": "room_dw_rhythm_countdown.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_rhythm_empty.png",
+      "filename": "room_dw_rhythm_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_rotating_tower.png",
+      "filename": "room_dw_rotating_tower.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_dw_titan_tower_test.png",
+      "filename": "room_dw_titan_tower_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_ed.png",
+      "filename": "room_ed.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_empty.png",
+      "filename": "room_empty.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_flowershop_1f.png",
+      "filename": "room_flowershop_1f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_flowershop_2f.png",
+      "filename": "room_flowershop_2f.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_gameover.png",
+      "filename": "room_gameover.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_gersonbattleroomtest.png",
+      "filename": "room_gersonbattleroomtest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_gif_tester.png",
+      "filename": "room_gif_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_GMS2_test.png",
+      "filename": "room_GMS2_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_gms_debug_failsafe.png",
+      "filename": "room_gms_debug_failsafe.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_graveyard.png",
+      "filename": "room_graveyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_hospital_hallway.png",
+      "filename": "room_hospital_hallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_hospital_lobby.png",
+      "filename": "room_hospital_lobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_hospital_room2.png",
+      "filename": "room_hospital_room2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_hospital_rudy.png",
+      "filename": "room_hospital_rudy.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/ROOM_INITIALIZE.png",
+      "filename": "ROOM_INITIALIZE.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_insidecloset.png",
+      "filename": "room_insidecloset.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_intro_ch4.png",
+      "filename": "room_intro_ch4.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_krishallway.png",
+      "filename": "room_krishallway.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_krisroom.png",
+      "filename": "room_krisroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_krisroom_dark.png",
+      "filename": "room_krisroom_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_legend.png",
+      "filename": "room_legend.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_legend_neo.png",
+      "filename": "room_legend_neo.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lerptest.png",
+      "filename": "room_lerptest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_library.png",
+      "filename": "room_library.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lightworldTest.png",
+      "filename": "room_lightworldTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_church_choir.png",
+      "filename": "room_lw_church_choir.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_church_entrance.png",
+      "filename": "room_lw_church_entrance.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_church_main.png",
+      "filename": "room_lw_church_main.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_church_office.png",
+      "filename": "room_lw_church_office.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_computer_lab.png",
+      "filename": "room_lw_computer_lab.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_conbini.png",
+      "filename": "room_lw_conbini.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_icee_pizza.png",
+      "filename": "room_lw_icee_pizza.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_library_upstairs.png",
+      "filename": "room_lw_library_upstairs.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_basement.png",
+      "filename": "room_lw_noellehouse_basement.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_bathroom.png",
+      "filename": "room_lw_noellehouse_bathroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_closet.png",
+      "filename": "room_lw_noellehouse_closet.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_dess.png",
+      "filename": "room_lw_noellehouse_dess.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_keyroom.png",
+      "filename": "room_lw_noellehouse_keyroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_kitchen.png",
+      "filename": "room_lw_noellehouse_kitchen.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_main.png",
+      "filename": "room_lw_noellehouse_main.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_noelle.png",
+      "filename": "room_lw_noellehouse_noelle.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_north.png",
+      "filename": "room_lw_noellehouse_north.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_vents_east.png",
+      "filename": "room_lw_noellehouse_vents_east.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_vents_north.png",
+      "filename": "room_lw_noellehouse_vents_north.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_vents_north_west.png",
+      "filename": "room_lw_noellehouse_vents_north_west.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_vents_south.png",
+      "filename": "room_lw_noellehouse_vents_south.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_noellehouse_vents_west.png",
+      "filename": "room_lw_noellehouse_vents_west.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_lw_police.png",
+      "filename": "room_lw_police.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_overworldBulletEnemyTest.png",
+      "filename": "room_overworldBulletEnemyTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_overworldDarknessBulletTest.png",
+      "filename": "room_overworldDarknessBulletTest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_overworld_darkmakumaze.png",
+      "filename": "room_overworld_darkmakumaze.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_overworld_darkmaku_blocks.png",
+      "filename": "room_overworld_darkmaku_blocks.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_overworld_darkmaku_ring.png",
+      "filename": "room_overworld_darkmaku_ring.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_rhythmgame_editor.png",
+      "filename": "room_rhythmgame_editor.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_ripple_test.png",
+      "filename": "room_ripple_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_rotating_tower_new_example.png",
+      "filename": "room_rotating_tower_new_example.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_rotating_tower_new_test.png",
+      "filename": "room_rotating_tower_new_test.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_schooldoor.png",
+      "filename": "room_schooldoor.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_schoollobby.png",
+      "filename": "room_schoollobby.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_school_unusedroom.png",
+      "filename": "room_school_unusedroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_shapetest.png",
+      "filename": "room_shapetest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_shop1.png",
+      "filename": "room_shop1.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_shop_music.png",
+      "filename": "room_shop_music.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_sound_tester.png",
+      "filename": "room_sound_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_sprite_tester.png",
+      "filename": "room_sprite_tester.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_test_climb_0001.png",
+      "filename": "room_test_climb_0001.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_test_climb_cameratest.png",
+      "filename": "room_test_climb_cameratest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_test_climb_enterexit.png",
+      "filename": "room_test_climb_enterexit.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_test_climb_new.png",
+      "filename": "room_test_climb_new.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_test_climb_new2.png",
+      "filename": "room_test_climb_new2.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_test_pianoGimmick.png",
+      "filename": "room_test_pianoGimmick.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_test_remotePiano.png",
+      "filename": "room_test_remotePiano.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_title_placeholder.png",
+      "filename": "room_title_placeholder.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_torbathroom.png",
+      "filename": "room_torbathroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_torhouse.png",
+      "filename": "room_torhouse.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_torielclass.png",
+      "filename": "room_torielclass.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_torroom.png",
+      "filename": "room_torroom.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_townhall.png",
+      "filename": "room_townhall.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_apartments.png",
+      "filename": "room_town_apartments.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_church.png",
+      "filename": "room_town_church.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_krisyard.png",
+      "filename": "room_town_krisyard.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_krisyard_dark.png",
+      "filename": "room_town_krisyard_dark.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_mid.png",
+      "filename": "room_town_mid.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_noellehouse.png",
+      "filename": "room_town_noellehouse.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_north.png",
+      "filename": "room_town_north.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_northwest.png",
+      "filename": "room_town_northwest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_school.png",
+      "filename": "room_town_school.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_shelter.png",
+      "filename": "room_town_shelter.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_town_south.png",
+      "filename": "room_town_south.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_traintest.png",
+      "filename": "room_traintest.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_traintest_big.png",
+      "filename": "room_traintest_big.png"
+    },
+    {
+      "url": "https://deltapagemaps.bnajns.hackclub.app/chapter4/room_vfx_tester.png",
+      "filename": "room_vfx_tester.png"
+    }
+  ]
+}
