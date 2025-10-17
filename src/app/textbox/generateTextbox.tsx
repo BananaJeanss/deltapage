@@ -16,9 +16,125 @@ if (fs.existsSync(fontPath)) {
 }
 
 type choices = "Kris" | "Susie" | "Ralsei" | "None";
+type textboxes = "Light World" | "Dark World";
 
 // copied over from bananajeanss/ralseibot
-export async function generateTextbox(text: string, sprite: choices) {
+export async function generateTextbox(
+  text: string,
+  sprite: choices,
+  textbox: textboxes
+) {
+  if (textbox === "Light World") {
+    return await lightworld(text, sprite);
+  } else {
+    return await darkworld(text, sprite);
+  }
+}
+
+async function darkworld(text: string, sprite: choices) {
+  // values
+  const width = 594;
+  const height = 168;
+  const spriteSize = 100;
+  const spriteX = 30;
+
+  const canvas = createCanvas(width, height);
+  const ctx = canvas.getContext("2d");
+
+  const bgPath = path.join(process.cwd(), "public", "darkworld.png");
+
+  // background
+  const bgImage = await loadImage(bgPath);
+  ctx.drawImage(bgImage, 0, 0, width, height);
+
+  const spriteY = (height - spriteSize) / 2;
+
+  // Load and draw character sprite
+  const spritePath = path.join(
+    process.cwd(),
+    "public",
+    "sprites",
+    `${sprite}.png`
+  );
+  try {
+    const spriteImage = await loadImage(spritePath);
+    // calc aspect ratio to prevent stretching for some sprites
+    // (calc is short for calculator)
+    const aspectRatio = spriteImage.width / spriteImage.height;
+    const drawWidth = spriteSize * aspectRatio;
+    const drawHeight = spriteSize;
+    ctx.drawImage(spriteImage, spriteX, spriteY, drawWidth, drawHeight);
+  } catch (error) {
+    console.log(`Could not load sprite for ${sprite}:`, error);
+    // Draw a placeholder if sprite doesn't exist
+    drawPlaceholderSprite(ctx, sprite);
+  }
+  // font settings
+  ctx.fillStyle = "#FFFFFF";
+  ctx.font = "26px DeterminationMono, monospace";
+
+  // Word wrap and draw text
+  const maxWidth = width - 160;
+  const lineHeight = 25;
+  const startX = 145;
+  const startY = 55;
+
+  const words = text.split(" ");
+  const lines: string[] = [];
+  let currentLine = "";
+  // draw text
+  for (const word of words) {
+    const testLine = currentLine + (currentLine ? " " : "") + word;
+    const metrics = ctx.measureText(testLine);
+    if (metrics.width > maxWidth && currentLine) {
+      lines.push(currentLine);
+      currentLine = word;
+    } else {
+      currentLine = testLine;
+    }
+  }
+
+  if (currentLine) {
+    lines.push(currentLine);
+  }
+  // break any lines that are still too long
+  const wrappedLines: string[] = [];
+  for (const line of lines) {
+    let remainingText = line;
+    while (remainingText.length > 0) {
+      const lineMetrics = ctx.measureText(remainingText);
+      if (lineMetrics.width <= maxWidth) {
+        wrappedLines.push(remainingText);
+        break;
+      }
+      let fit = "";
+      for (let i = 1; i <= remainingText.length; i++) {
+        const test = remainingText.substring(0, i);
+        if (ctx.measureText(test).width > maxWidth) {
+          break;
+        }
+        fit = test;
+      }
+      if (fit.length === 0) {
+        fit = remainingText.substring(0, 1);
+      }
+      wrappedLines.push(fit);
+      remainingText = remainingText.substring(fit.length);
+    }
+  }
+
+  // Draw each line of text
+  wrappedLines.forEach((line, index) => {
+    if (index < 4) {
+      // Limit to 4 lines to fit in textbox
+      ctx.fillText(line, startX, startY + index * lineHeight);
+    }
+  });
+
+  return canvas.toDataURL();
+}
+
+async function lightworld(text: string, sprite: choices) {
   // values
   const width = 640;
   const height = 155;
@@ -133,10 +249,13 @@ export async function generateTextbox(text: string, sprite: choices) {
   });
 
   return canvas.toDataURL();
+}
 
   function drawPlaceholderSprite(
     ctx: CanvasRenderingContext2D,
-    character: string
+    character: string,
+    spriteX: number = 20,
+    spriteSize: number = 100
   ) {
     if (character === "None") return; // dont draw anything if None
     // Draw a colored placeholder rectangle
@@ -164,4 +283,3 @@ export async function generateTextbox(text: string, sprite: choices) {
     );
     ctx.textAlign = "left";
   }
-}

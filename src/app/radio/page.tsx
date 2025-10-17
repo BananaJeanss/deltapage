@@ -81,7 +81,6 @@ export default function RadioPage() {
         ref={audioRef}
         id="radio-player"
         src={`${RADIO_BACKEND_URL}stream`}
-        autoPlay
         controls={false}
       />
 

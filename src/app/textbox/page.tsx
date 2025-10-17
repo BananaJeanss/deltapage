@@ -26,6 +26,7 @@ export default function TextboxGenerator() {
       const result = await generateTextbox(
         text,
         sprite as keyof typeof choices,
+        style as "Light World" | "Dark World"
       );
       setImageSrc(result);
     } catch (error) {
