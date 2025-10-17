@@ -41,6 +41,19 @@ export default function RadioPage() {
     setCoverUrl(`${RADIO_BACKEND_URL}albumcover?${Date.now()}`);
   }, [songInfo.title]);
 
+  useEffect(() => {
+    if('mediaSession' in navigator) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: songInfo.title,
+        artist: songInfo.artist,
+        album: songInfo.album,
+        artwork: [
+          { src: coverUrl, sizes: '512x512', type: 'image/png' }
+        ]
+      });
+    }
+  }, [songInfo, coverUrl]);
+
   const audioRef = useRef<HTMLAudioElement>(null);
   const [isPlaying, setIsPlaying] = useState(false);
 
