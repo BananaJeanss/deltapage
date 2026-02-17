@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Play, Pause } from "lucide-react";
 
-const RADIO_BACKEND_URL = (process.env.NEXT_PUBLIC_RADIO_BACKEND_URL || "https://tsradio.bnajns.hackclub.app/").replace(/\/?$/, '/');
+const RADIO_BACKEND_URL = (process.env.NEXT_PUBLIC_RADIO_BACKEND_URL || "https://tsradio.bnajns.dev/").replace(/\/?$/, '/');
 
 // this expects the radio to use https://github.com/BananaJeanss/tsradio
 export default function RadioPage() {
